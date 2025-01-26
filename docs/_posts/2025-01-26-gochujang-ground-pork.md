@@ -1,8 +1,8 @@
 ---
 title: "Gochujang Ground Pork"
 image: 
-  path: /docs/images/so-simple-sample-image-5.jpg
-  thumbnail: /docs/images/gochujang-thumbnail.jpg
+  path: /docs/images/gochujang-ground-pork.jpg
+  thumbnail: /docs/images/gochujang-ground-pork-thumbnail.jpg
 categories:
   - recipe
 tags:
