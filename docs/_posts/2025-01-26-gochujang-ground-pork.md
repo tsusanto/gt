@@ -34,7 +34,8 @@ Or use Kramdown and [inline attribute lists](https://kramdown.gettalong.org/synt
 ![right-aligned-image](image.jpg){: .align-right}
 ```
 
-![image-center]({{ '/images/image-alignment-580x300.jpg' | absolute_url }}){: .align-center}
+![image-center]({{ '<img src="https://lh3.googleusercontent.com/pw/ABLVV84WaMV2ED_GxBZ525lUM_GGONwbWB93QvoQFtKHOpiX2S7PasIKwGCdhAzTgUiv4uT1_hPHKP-kXTVx_J-2doU9B2NOv91sxiHGW4wec4lcxe35HHt8=w2400">
+' | absolute_url }}){: .align-center}
 
 The image should be **centered** with the `.align-center` class.
 
@@ -44,11 +45,13 @@ As you can see the should be some space above, below, and to the right of the im
 
 And now for a **massively large image** --- it has **no alignment**.
 
-![no-alignment]({{ '/images/image-alignment-1200x4002.jpg' | absolute_url }})
+![no-alignment]({{ '<img src="https://lh3.googleusercontent.com/pw/ABLVV84WaMV2ED_GxBZ525lUM_GGONwbWB93QvoQFtKHOpiX2S7PasIKwGCdhAzTgUiv4uT1_hPHKP-kXTVx_J-2doU9B2NOv91sxiHGW4wec4lcxe35HHt8=w2400">
+' | absolute_url }})
 
 The image above, though `1200px` wide, should not overflow the content area. It should remain contained with no visible disruption to the flow of content.
 
-![image-right]({{ '/images/image-alignment-300x200.jpg' | absolute_url }}){: .align-right}
+![image-right]({{ '<img src="https://lh3.googleusercontent.com/pw/ABLVV84WaMV2ED_GxBZ525lUM_GGONwbWB93QvoQFtKHOpiX2S7PasIKwGCdhAzTgUiv4uT1_hPHKP-kXTVx_J-2doU9B2NOv91sxiHGW4wec4lcxe35HHt8=w2400">
+' | absolute_url }}){: .align-right}
 
 And now we're going to shift things to the **right** with the `.align-right` class. Again, there should be plenty of room above, below, and to the left of the image. Just look at him there --- Hey guy! Way to rock that right side. I don't care what the left aligned image says, you look great. Don't let anyone else tell you differently.
 
@@ -64,7 +67,8 @@ And just when you thought we were done, we're going to do them all over again wi
 The figure above happens to be **centered**. The caption also has a link in it, just to see if it does anything funky.
 
 <figure style="width: 150px" class="align-left">
-  <img src="{{ '/images/image-alignment-150x150.jpg' | absolute_url }}" alt="">
+  <img src="{{ '<img src="https://lh3.googleusercontent.com/pw/ABLVV84WaMV2ED_GxBZ525lUM_GGONwbWB93QvoQFtKHOpiX2S7PasIKwGCdhAzTgUiv4uT1_hPHKP-kXTVx_J-2doU9B2NOv91sxiHGW4wec4lcxe35HHt8=w2400">
+' | absolute_url }}" alt="">
   <figcaption>Itty-bitty caption.</figcaption>
 </figure> 
 
