@@ -1,7 +1,7 @@
 ---
 title: "Gochujang Ground Pork"
 image: 
-  path: /docs/images/gochujang-ground-pork.jpg
+  path: /docs/images/gochujang-ground-pork-thumbnail.jpg
   thumbnail: /docs/images/gochujang-ground-pork-thumbnail.jpg
 categories:
   - recipe
@@ -28,7 +28,7 @@ Or use Kramdown and [inline attribute lists](https://kramdown.gettalong.org/synt
 ![right-aligned-image](image.jpg){: .align-right}
 ```
 
-![image-center]({{ '/docs/images/image-alignment-580x300.jpg' | absolute_url }}){: .align-center}
+![image-center]({{ '/docs/images/gochujang-ground-pork-thumbnail.jpg' | absolute_url }}){: .align-center}
 
 The image should be **centered** with the `.align-center` class.
 
