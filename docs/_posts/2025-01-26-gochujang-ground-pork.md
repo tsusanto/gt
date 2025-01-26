@@ -1,8 +1,8 @@
 ---
 title: "Gochujang Ground Pork"
 image: 
-  path: /images/so-simple-sample-image-5.jpg
-  thumbnail: /images/so-simple-sample-image-5-400x200.jpg
+  path: /docs/images/so-simple-sample-image-5.jpg
+  thumbnail: /docs/images/so-simple-sample-image-5-400x200.jpg
   caption: "Photo from [WeGraphics](http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/)"
 categories:
   - recipe
@@ -29,7 +29,7 @@ Or use Kramdown and [inline attribute lists](https://kramdown.gettalong.org/synt
 ![right-aligned-image](image.jpg){: .align-right}
 ```
 
-![image-center]({{ '/images/image-alignment-580x300.jpg' | absolute_url }}){: .align-center}
+![image-center]({{ '/docs/images/image-alignment-580x300.jpg' | absolute_url }}){: .align-center}
 
 The image should be **centered** with the `.align-center` class.
 
