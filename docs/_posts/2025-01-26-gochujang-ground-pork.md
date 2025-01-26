@@ -2,13 +2,12 @@
 title: "Gochujang Ground Pork"
 image: 
   path: /docs/images/so-simple-sample-image-5.jpg
-  thumbnail: /docs/images/so-simple-sample-image-5-400x200.jpg
-  caption: "Photo from [WeGraphics](http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/)"
+  thumbnail: /docs/images/gochujang-thumbnail.jpg
 categories:
   - recipe
 tags:
   - korean recipe
-last_modified_at: 2018-02-05T16:19:55-05:00
+last_modified_at: 2026-01-26T16:19:55-05:00
 ---
 
 The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let's get started.
