@@ -38,7 +38,7 @@ As you can see the should be some space above, below, and to the right of the im
 
 And now for a **massively large image** --- it has **no alignment**.
 
-![no-alignment]({{ '/images/image-alignment-1200x4002.jpg' | absolute_url }})
+![no-alignment]({{ '/docs/images/gochujang-ground-pork-thumbnail.jpg' | absolute_url }})
 
 The image above, though `1200px` wide, should not overflow the content area. It should remain contained with no visible disruption to the flow of content.
 
@@ -69,7 +69,7 @@ As you can see the should be some space above, below, and to the right of the im
 And now for a massively large image with **no alignment**.
 
 <figure style="width: 1200px">
-  <img src="{{ '/images/image-alignment-1200x4002.jpg' | absolute_url }}" alt="">
+  <img src="{{ '/docs/images/gochujang-ground-pork-thumbnail.jpg' | absolute_url }}" alt="">
   <figcaption>Massive image comment for your eyeballs.</figcaption>
 </figure> 
 
