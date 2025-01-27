@@ -69,7 +69,7 @@ As you can see the should be some space above, below, and to the right of the im
 And now for a massively large image with **no alignment**.
 
 <figure style="width: 1200px">
-  <img src="{{ '/docs/images/gochujang-ground-pork-thumbnail.jpg' | absolute_url }}" alt="">
+  <img src="{{ '/docs/images/gochujang-ground-pork.jpg' | absolute_url }}" alt="">
   <figcaption>Massive image comment for your eyeballs.</figcaption>
 </figure> 
 
