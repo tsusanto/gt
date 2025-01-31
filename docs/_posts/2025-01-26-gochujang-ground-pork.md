@@ -21,8 +21,20 @@ Prepare sauce in a bowl with the following:
 * 2 tablespoon mirin
 
  
+Stir fry the following:
+* 1 lb Ground pork (I like to grind pork shoulder in a food processor)
+* 6 cloves of garlic - minced
+* 1 inch knob  ginger - grated
+* 3 stalks green onions, chopped, white part only
 
-![image-center]({{ '/docs/images/gochujang-ground-pork.jpg' | absolute_url }}){: .align-center}
+
+Heat up some oil in a pan on medium Heat.
+Stir fry the pork with garlic, ginger and white parts of the green onions for about 10 minutes.
+Add sauce
+
+Garnish with sesame seeds, green parts of the green onions. 
+
+We love to eat it with white rice and some boiled eggs.
 
 
 
