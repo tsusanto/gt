@@ -14,29 +14,29 @@ Our favorite tofu dish
 
 Serves 4-6.
 
-Prepare sauce in a bowl with the following:
-* 1.5 tablespoons korean chili powder
-* 2 tablespoons of gochujang
-* 1 tablespoon soy sauce
-* 1 tablespoon oyster sauce
-* 1 tablespoon sugar
-* 2 tablespoon mirin
-
- 
-Stir fry the following:
-* 1 lb Ground pork (I like to grind pork shoulder in a food processor)
-* 6-8 cloves of garlic - minced
-* 1 teaspoon of grated ginger, about a thumbsized knob
-* 3 stalks green onions, chopped, white part only. Save the green parts for garnish
+We love this locally made tofu, not too soft or firm, and very flavorful
 
 
-Heat up some oil in a pan on medium Heat.
-Stir fry the pork with garlic, ginger and white parts of the green onions for about 10 minutes.
-Add sauce and mix well for about 1 minute. Done!
 
-Garnish with sesame seeds, green parts of the green onions. 
+* 1 block of tofu, thickly sliced
+* a handful of chinese chives, cut into 1 inch length
+* 1/2 lb of pork shoulder, thinly sliced
+* 1 tablespoon of soy sauce
+* some white pepper
+* 2 teaspoons of cornstarch
+* 4 cloves of garlic, finely chopped 
+* Shitake mushrooms, sliced, optional
+* 1 tablespoon of oyster sauce
+* 1.5 tablespoon of chinese fermented soy beans
 
-We love to eat it with white rice and some boiled eggs.
 
+Marinate the pork with cornstarch and soy sauce, white pepper. Set aside to marinate while you prep the tofu.
+
+Pan fry the tofu on both sides under golden brown. Remove excess oil. Using the same pan, stir fry garlic and chinese fermented soy beans for about 5 minutes. 
+Add pork, mushrooms and stir fry for another 5 minutes. Add tofu and chinese chives. Add about a cup of water and oyster sauce. 
+Mix it well and let it boil for about 3 minutes. The sauce should thicken up nicely, if not, add some cornstarch slurry and thicken to your liking.
+
+
+]
 
 
