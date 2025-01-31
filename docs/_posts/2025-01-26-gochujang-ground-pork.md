@@ -15,10 +15,10 @@ Quick and easy comfort food.
 Prepare sauce in a bowl with the following:
 * 1.5 tablespoons korean chili powder
 * 2 tablespoons of gochuchang
-	* 1 tablespoon soy sauce
-	* 1 tablespoon oyster sauce
-	* 1 tablespoon sugar
-	* 2 tablespoon mirin
+* 1 tablespoon soy sauce
+* 1 tablespoon oyster sauce
+* 1 tablespoon sugar
+* 2 tablespoon mirin
 
  
 
