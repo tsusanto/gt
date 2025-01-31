@@ -32,11 +32,10 @@ We love this locally made tofu, not too soft or firm, and very flavorful
 
 Marinate the pork with cornstarch and soy sauce, white pepper. Set aside to marinate while you prep the tofu.
 
-Pan fry the tofu on both sides under golden brown. Remove excess oil. Using the same pan, stir fry garlic and chinese fermented soy beans for about 5 minutes. 
+Pan fry the tofu on both sides under golden brown. Remove excess oil. Using the same pan, stir fry garlic and chinese fermented soy beans for about 2 minutes. 
 Add pork, mushrooms and stir fry for another 5 minutes. Add tofu and chinese chives. Add about a cup of water and oyster sauce. 
-Mix it well and let it boil for about 3 minutes. The sauce should thicken up nicely, if not, add some cornstarch slurry and thicken to your liking.
+Gently ix it well so you don't break the tofu, and let it boil for about 3 minutes. The sauce should thicken up nicely, if not, add some cornstarch slurry and thicken to your liking.
 
 
-]
 
 
