@@ -25,8 +25,8 @@ Prepare sauce in a bowl with the following:
  
 Stir fry the following:
 * 1 lb Ground pork (I like to grind pork shoulder in a food processor)
-* 6 cloves of garlic - minced
-* 1 inch knob  ginger - grated
+* 6-8 cloves of garlic - minced
+* 1 teaspoon of grated ginger, about a thumbsized knob
 * 3 stalks green onions, chopped, white part only. Save the green parts for garnish
 
 
