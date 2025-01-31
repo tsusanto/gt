@@ -25,7 +25,7 @@ Stir fry the following:
 * 1 lb Ground pork (I like to grind pork shoulder in a food processor)
 * 6 cloves of garlic - minced
 * 1 inch knob  ginger - grated
-* 3 stalks green onions, chopped, white part only
+* 3 stalks green onions, chopped, white part only. Save the green parts for garnish
 
 
 Heat up some oil in a pan on medium Heat.
