@@ -10,6 +10,8 @@ tags:
 last_modified_at: 2026-01-31T16:19:55-05:00
 ---
 
+Our favorite tofu dish
+
 Serves 4-6.
 
 Prepare sauce in a bowl with the following:
