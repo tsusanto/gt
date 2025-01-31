@@ -30,7 +30,7 @@ Stir fry the following:
 
 Heat up some oil in a pan on medium Heat.
 Stir fry the pork with garlic, ginger and white parts of the green onions for about 10 minutes.
-Add sauce
+Add sauce and mix well for about 1 minute. Done!
 
 Garnish with sesame seeds, green parts of the green onions. 
 
