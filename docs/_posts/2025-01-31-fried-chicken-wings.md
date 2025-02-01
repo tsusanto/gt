@@ -1,5 +1,5 @@
 ---
-title: "Double Fried Chicken Wings
+title: "Double Fried Chicken Wings"
 image: 
   path: /docs/images/fried-chicken-wings.jpg
   thumbnail: /docs/images/fried-chicken-wings.jpg
