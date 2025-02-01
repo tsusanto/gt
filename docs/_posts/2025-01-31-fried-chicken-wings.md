@@ -34,6 +34,7 @@ Deep fry the first batch of wings for another 5 minutes, and again let it cool o
 
 Sprinkle with garlic, salt and pepper blend. Serve immediately.
 
+I made this dish for our Chinese New Year dinner and everyone loved the wings.
 
 <figure class="align-left">
   <a href="#"><img src="{{ '/docs/images/chicken-seasoning.jpg' | absolute_url }}" alt=""></a>
