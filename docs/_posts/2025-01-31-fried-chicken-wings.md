@@ -20,13 +20,18 @@ Ingredients:
 * garlic salt and pepper blend (I like Kinder's brand)
 * corn starch 
 
-Follow instructions on your fried chicken seasoning mix. I added extra cornstarch just before deep frying it. 
+Follow instructions on your fried chicken seasoning mix. I added extra cornstarch just before deep frying it.
+ 
 Don't overcrowed the pot. I did mine in 2 batches. 
+
 Heat up enough oil to cover the wings, set it to 390F. I really love cooking on induction stovetop as you can easily set the temperature. 
 Put half the wings into the oil gently, let it fry for about 8 minutes. Lay the wings to cool on a wire rack. I used the wire rack from the toaster oven and set it on top of 2 small bowls.
+
 Deep fry the second batch of wings, and repeat the same step above.
+
 Deep fry the first batch of wings for another 5 minutes, and again let it cool on a wire rack, and repeat the same with the second batch.
-Serve immediately.
+
+Sprinkle with garlic, salt and pepper blend. Serve immediately.
 
 
 <figure class="align-left">
