@@ -13,6 +13,23 @@ layout: default
         {% else %}
           <h1 id="page-title" class="page-title p-name">{{ title }}</h1>
         {% endif %}
+		
+		      <div class="page-content">
+        <div class="e-content">
+          {{ content }}
+        </div>
+
+        {% if page.share %}
+          {% include social-share.html %}
+        {% endif %}
+
+        {% if site.disqus.shortname %}
+          {% include disqus-comments.html %}
+        {% endif %}
+
+        {% include page-pagination.html %}
+      </div>
+	  
       </header>
 
       <div class="page-sidebar">
