@@ -12,17 +12,16 @@ last_modified_at: 2026-01-31T16:19:55-05:00
 
 The secret to making super crispy fried chicken wings is double frying it. Deep fry for 8 minutes or so, let it cool on a wire rack for about 5 minutes, then deep fry it again for another 5 minutes.
 
-* 1 block of tofu, thickly sliced
-* a handful of chinese chives, cut into 1 inch length
-* 1/2 lb of pork shoulder, thinly sliced
-* 1 tablespoon of soy sauce
-* some white pepper
-* 2 teaspoons of cornstarch
-* 4 cloves of garlic, finely chopped 
-* Shitake mushrooms, sliced, optional
-* 1 tablespoon of oyster sauce
-* 1 tablespoon of dark soy sauce
-* 1 tablespoon of chinese fermented soy beans
+* 8 chicken wings, cut into drummette and wingnette, discard the wing tips
+* store bought seasoned flour for fried chicken
+* garlic salt and pepper blend (I like Kinder's brand)
+* corn starch 
+
+
+I enjoy grocery shopping when I travel internationally. I bought this fried chicken seasoning when I travelled to Malaysia last year. 
+
+As much as I love fried chicken wings, I dislike deep frying inside the house as the house will smell of grease for a long time. I'm fortunate enough to have a very cool cooking setup in our backyard, which consists of a induction stovetop set on top of a dining table under our gazebo.
+I use a vinyl table cloth which is easy to clean up, or I just replace it when it gets too dirty.
 
 
 I made this as part of my Chinese New Year dinner.
