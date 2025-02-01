@@ -10,11 +10,7 @@ tags:
 last_modified_at: 2026-01-31T16:19:55-05:00
 ---
 
-Serves 2-4.
-
-We love this locally made tofu, not too soft or firm, and very flavorful. The tofu is the star ingredient, with just a bit of pork to enhance the flavor. 
-
-
+The secret to making super crispy fried chicken wings is double frying it. Deep fry for 8 minutes or so, let it cool on a wire rack for about 5 minutes, then deep fry it again for another 5 minutes.
 
 * 1 block of tofu, thickly sliced
 * a handful of chinese chives, cut into 1 inch length
