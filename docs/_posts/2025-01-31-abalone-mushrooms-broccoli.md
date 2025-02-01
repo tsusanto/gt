@@ -1,5 +1,5 @@
 ---
-title: "Braised Abalone with mushrooms and broccoli"
+title: "Abalone with mushrooms"
 image: 
   path: /docs/images/abalone-mushrooms.jpg
   thumbnail: /docs/images/abalone-mushrooms.jpg
