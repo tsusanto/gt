@@ -23,13 +23,13 @@
     {% endif %}
   </header>
   {% unless page.show_excerpts == false %}
-    <div class="entry-excerpt p-summary">
+    <!--div class="entry-excerpt p-summary">
       {% if entry.excerpt %}
         {{ entry.excerpt | markdownify }} <a href="{{ entry.url | relative_url }}" rel="bookmark"></a>
       {% endif %}
 	  
 	  
-    </div>
+    </div--!>
   {% endunless %}
   {% if site.read_time or entry.date and page.layout != 'collection' %}
     <footer class="entry-meta">
