@@ -32,5 +32,5 @@ We love this locally made tofu, not too soft or firm, and very flavorful. The to
 I made this as part of my Chinese New Year dinner.
 
 
-({{ '/docs/images/cny-dinner.jpg' | absolute_url }}){: .align-center}
+![image-center]({{ '/docs/images/cny-dinner.jpg' | absolute_url }}){: .align-center}
 
