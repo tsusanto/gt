@@ -20,6 +20,9 @@ The secret to making super crispy fried chicken wings is double frying it. Deep 
 
 I enjoy grocery shopping when I travel internationally. I bought this fried chicken seasoning when I travelled to Malaysia last year. 
 
+![fried chicken seasoning]({{ '/docs/images/chicken-seasoning.jpg' | absolute_url }}){: .align-left}
+
+
 As much as I love fried chicken wings, I dislike deep frying inside the house as the house will smell of grease for a long time. I'm fortunate enough to have a very cool cooking setup in our backyard, which consists of a induction stovetop set on top of a dining table under our gazebo.
 I use a vinyl table cloth which is easy to clean up, or I just replace it when it gets too dirty.
 
