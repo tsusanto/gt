@@ -20,7 +20,7 @@ Ingredients:
 * garlic salt and pepper blend (I like Kinder's brand)
 * corn starch 
 
-Follow instructions on your fried chicken seasoning mix. I added extra cornstarch just before deep frying it.
+Follow the instructions on your fried chicken seasoning mix. I added extra cornstarch just before deep frying it.
  
 Don't overcrowed the pot. I did mine in 2 batches. 
 
