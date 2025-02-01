@@ -22,10 +22,14 @@
       <img class="entry-image u-photo" src="{{ entry_image }}" alt="">
     {% endif %}
   </header>
+  {% unless page.show_excerpts == false %}
+    <div class="entry-excerpt p-summary">
+      {% if entry.excerpt %}
+        {{ entry.excerpt | markdownify }} <a href="{{ entry.url | relative_url }}" rel="bookmark"></a>
+      {% endif %}
+	  
+	  
+    </div>
   {% endunless %}
-  {% if site.read_time or entry.date and page.layout != 'collection' %}
-    <footer class="entry-meta">
-      {% if site.read_time %}{% include read-time.html %}{% endif %}
-    </footer>
-  {% endif %}
+
 </article>
