@@ -10,8 +10,6 @@ tags:
 last_modified_at: 2026-01-31T16:19:55-05:00
 ---
 
-({{ '/docs/images/braised-tofu-pork.jpg' | absolute_url }})
-
 Serves 2-4.
 
 We love this locally made tofu, not too soft or firm, and very flavorful. The tofu is the star ingredient, with just a bit of pork to enhance the flavor. 
