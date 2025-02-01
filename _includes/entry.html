@@ -10,7 +10,7 @@
       {% if entry.link %}
         <a class="u-bookmark-of" href="{{ entry.link }}">{{ title }}</a> <a href="{{ entry.url | relative_url }}" rel="bookmark"><span class="link-arrow">&rarr;</span></a>
       {% else %}
-        <a href="{{ entry.url | relative_url }}" rel="bookmark">{{ title }} <h5>View recipe <span class="link-arrow">&rarr;</span></h5></a>
+        <a href="{{ entry.url | relative_url }}" rel="bookmark">{{ title }} <div class="entry-excerpt p-summary">View recipe <span class="link-arrow">&rarr;</span></class></a>
       {% endif %}
     </h3>
     {% if entry.image.thumbnail %}
