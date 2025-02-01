@@ -19,7 +19,7 @@ layout: default
 		{% assign page_image = page.image.path | default: page.image %}
         {% if page.link %}
           <h1 id="page-title" class="page-title p-name"><a href="{{ page.link }}">{{ title }} <span class="link-arrow">&rarr;</span></a></h1>
-		  <p><img src= {{ page_image }}/></p>
+		  <p><img src= {{ page_image }}></p>
         {% else %}
           <h1 id="page-title" class="page-title p-name">{{ title }}</h1>
 		  <p><img src= {{ page_image }}/></p>
