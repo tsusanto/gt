@@ -26,7 +26,7 @@ Don't overcrowed the pot. I did mine in 2 batches.
 
 Heat up enough oil to cover the wings, set it to 390F. I really love cooking on induction cooktop as you can easily set the temperature and set a timer too. 
 
-Put half the wings into the oil gently, let it fry for about 8 minutes. Lay the wings to cool on a wire rack. I used the wire rack from the toaster oven and set it on top of 2 small bowls.
+Put half the wings into the oil gently, let it fry for about 8 minutes. Lay the wings to cool on a wire rack. I used the wire rack from the toaster oven and set it on top of 2 small bowls with some old newspapers underneath to catch the dripping grease.
 
 Deep fry the second batch of wings, and repeat the same step above.
 
