@@ -28,5 +28,5 @@ The secret to making super crispy fried chicken wings is double frying it. Deep 
 I made this as part of my Chinese New Year dinner.
 
 
-![image-center]({{ '/docs/images/cny-dinner.jpg' | absolute_url }}){: .align-center}
+![chinese new year dinner]({{ '/docs/images/cny-dinner.jpg' | absolute_url }}){: .align-left}
 
