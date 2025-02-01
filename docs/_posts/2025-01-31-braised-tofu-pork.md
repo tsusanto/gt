@@ -10,8 +10,7 @@ tags:
 last_modified_at: 2026-01-31T16:19:55-05:00
 ---
 
-![no-alignment]({{ '/docs/images/braised-tofu-pork.jpg' | absolute_url }})
-
+({{ '/docs/images/braised-tofu-pork.jpg' | absolute_url }})
 
 Serves 2-4.
 
