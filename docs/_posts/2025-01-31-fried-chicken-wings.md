@@ -29,13 +29,8 @@ We love this locally made tofu, not too soft or firm, and very flavorful. The to
 * 1 tablespoon of chinese fermented soy beans
 
 
-Marinate the pork with cornstarch and soy sauce, white pepper. Set aside to marinate while you prep the tofu.
-
-On medium heat and a generous amount of oil, pan fry the tofu on both sides under golden brown, about 5 minutes on each side. Remove excess oil. Using the same pan, stir fry garlic and chinese fermented soy beans for about 2 minutes. 
-Add pork, mushrooms and stir fry for another 5 minutes. Add tofu and chinese chives. Add about a cup of water and dark sauce and oyster sauce. 
-Gently mix it well so you don't break the tofu, and let it boil for about 3 minutes. The sauce should thicken up nicely, if not, add some cornstarch slurry and thicken to your liking.
+I made this as part of my Chinese New Year dinner.
 
 
-Serve it with steamed white rice
-
+({{ '/docs/images/cny-dinner.jpg' | absolute_url }}){: .align-center}
 
