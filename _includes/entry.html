@@ -24,8 +24,8 @@
   </header>
   {% unless page.show_excerpts == false %}
     <div class="entry-excerpt p-summary">
-      {% if entry.excerpt %}Vi
-        {{ entry.excerpt | markdownify }} <a href="{{ entry.url | relative_url }}" rel="bookmark">View Recipe</a>
+      {% if entry.excerpt %}
+        {{ entry.excerpt | markdownify }} <a href="{{ entry.url | relative_url }}" rel="bookmark"></a>
       {% endif %}
 	  
 	  
