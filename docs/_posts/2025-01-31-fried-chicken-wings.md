@@ -10,7 +10,7 @@ tags:
 last_modified_at: 2026-01-31T16:19:55-05:00
 ---
 
-The secret to making super crispy fried chicken wings is double frying it. Deep fry for 7 minutes or so, let it cool on a wire rack for about 5 minutes, then deep fry it again for another 5 minutes.
+The secret to making super crispy fried chicken wings is double frying it. 
 
 I enjoy grocery shopping when I travel internationally. I bought some fried chicken seasoning when I travelled to Malaysia last year. You can get similar ones at most asian supermarkets here too.
 

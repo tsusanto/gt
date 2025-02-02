@@ -15,26 +15,28 @@ Serves 2-4.
 I made this dish for the first time as part of my Chinese New Year dinner I made for G and his family
 
 
-* 1 block of tofu, thickly sliced
-* a handful of chinese chives, cut into 1 inch length
-* 1/2 lb of pork shoulder, thinly sliced
-* 1 tablespoon of soy sauce
-* some white pepper
+* 1 can of lee kum kee abalone, 6 whole abalones in it
+* a big crown of broccoli - cut into florets
+* 10 fresh shitake mushrooms - thinly sliced
+* 2 cloves of garlic - minced
+* 1 tablespoon of dark soy sauce
 * 2 teaspoons of cornstarch
 * 4 cloves of garlic, finely chopped 
-* Shitake mushrooms, sliced, optional
-* 1 tablespoon of oyster sauce
-* 1 tablespoon of dark soy sauce
-* 1 tablespoon of chinese fermented soy beans
+* salt, sugar and pepper to taste
 
 
-Marinate the pork with cornstarch and soy sauce, white pepper. Set aside to marinate while you prep the tofu.
+Boil water with some salt, and blanch the broccoli. Soak the blanched broccoli in ice water. Arrange the broccoli on a plate in a circle.
 
-On medium heat and a generous amount of oil, pan fry the tofu on both sides under golden brown, about 5 minutes on each side. Remove excess oil. Using the same pan, stir fry garlic and chinese fermented soy beans for about 2 minutes. 
-Add pork, mushrooms and stir fry for another 5 minutes. Add tofu and chinese chives. Add about a cup of water and dark sauce and oyster sauce. 
-Gently mix it well so you don't break the tofu, and let it boil for about 3 minutes. The sauce should thicken up nicely, if not, add some cornstarch slurry and thicken to your liking.
+Slice the abalones and set it aside, save all the sauce from the canned abalone.
 
+In a pan on medium heat, heat 2 tablespoons of oil, stir fry the minched garlic for about a minute. Add sliced shitake mushrooms, dark soy sauce and some water, stir fry for about 5 minutes. Add more water if it looks too dry. 
+  
+Add all canned abalone sauce, let it boil for 2 minutes. Season with salt, white pepper and some sugar. Add the sliced abalones and let it boil for another minute. Add some cornstarch slurry to thicken the sauce.
 
-Serve it with steamed white rice
+Pour the sauce over the broccoli.
 
+<figure class="align-left">
+  <a href="#"><img src="{{ '/docs/images/lkk-abalone.jpg' | absolute_url }}" alt=""></a>
+  <figcaption>Lee Kum Kee abalone in premium oyster sauce</figcaption>
+</figure> 
 
