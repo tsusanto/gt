@@ -27,7 +27,7 @@ Soak the woodear mushroom in water for about 10 minutes. Bring a sauce pan of wa
 
 Cut cucumbers into thin strips. Discard the cucumber seeds as they will make the salad become too watery. Sprinkle salt evenly on the cucumber strips and let it sit for about 10 minutes.
 
-Rinse the cucumbers and use a paper towel to pat dry the moisture.
+Rinse the cucumbers and use a paper towel to wrap around the cucumber strops and gently squeeze out the water.
 
 In a glass bowl, add minced garlic, black chinese vinegar, sesame oil, soy sauce, korean chili powder, sugar to taste and mix it well.
 
