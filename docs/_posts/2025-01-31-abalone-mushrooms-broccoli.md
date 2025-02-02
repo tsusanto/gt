@@ -25,7 +25,7 @@ I made this dish for the first time as part of my Chinese New Year dinner I made
 * salt, sugar and pepper to taste
 
 
-Boil water with some salt, and blanch the broccoli. Soak the blanched broccoli in ice water. Arrange the broccoli on a plate in a circle.
+Boil water with some salt, and blanch the broccoli. I like my broccoli on a bit crunchy which takes only 90 seconds or so to cook. Soak the blanched broccoli to a bowl of ice water for 2 minutes. Arrange the broccoli on a plate in a circle.
 
 Slice the abalones and set it aside, save all the sauce from the canned abalone.
 
