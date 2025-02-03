@@ -36,13 +36,13 @@ Add all canned abalone sauce, let it boil for 2 minutes. Season with salt, white
 Pour the sauce over the broccoli.
 
 <figure class="align-left">
-  <a href="#"><img src="{{ '/docs/images/cny-dinner.jpg' | absolute_url }}" alt=""></a>
+  <a href="#"><img src="{{ '/images/cny-dinner.jpg' | absolute_url }}" alt=""></a>
   <figcaption>Chinese new year dinner 2025</figcaption>
 </figure> 
 
 
 <figure class="align-left">
-  <a href="#"><img src="{{ '/docs/images/lkk-abalone.jpg' | absolute_url }}" alt=""></a>
+  <a href="#"><img src="{{ '/]]/images/lkk-abalone.jpg' | absolute_url }}" alt=""></a>
   <figcaption>Lee Kum Kee abalone in premium oyster sauce</figcaption>
 </figure> 
 

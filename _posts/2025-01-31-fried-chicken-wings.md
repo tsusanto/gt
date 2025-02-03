@@ -1,8 +1,8 @@
 ---
 title: "Fried Chicken Wings"
 image: 
-  path: /docs/images/fried-chicken-wings.jpg
-  thumbnail: /docs/images/fried-chicken-wings.jpg
+  path: /images/fried-chicken-wings.jpg
+  thumbnail: /images/fried-chicken-wings.jpg
 categories:
   - recipe
 tags:
@@ -37,18 +37,18 @@ Sprinkle with garlic, salt and pepper blend. Serve immediately.
 I made this dish for our Chinese New Year dinner and everyone loved the wings.
 
 <figure class="align-left">
-  <a href="#"><img src="{{ '/docs/images/chicken-seasoning.jpg' | absolute_url }}" alt=""></a>
+  <a href="#"><img src="{{ '/images/chicken-seasoning.jpg' | absolute_url }}" alt=""></a>
   <figcaption>Malaysian fried chicken seasoning</figcaption>
 </figure> 
 
 
 
 <figure class="align-left">
-  <a href="#"><img src="{{ '/docs/images/outdoor-kitchen.jpg' | absolute_url }}" alt=""></a>
+  <a href="#"><img src="{{ '/images/outdoor-kitchen.jpg' | absolute_url }}" alt=""></a>
   <figcaption>My outdoor kitchen setup, induction stovetop</figcaption>
 </figure> 
 
 <figure class="align-left">
-  <a href="#"><img src="{{ '/docs/images/cny-dinner.jpg' | absolute_url }}" alt=""></a>
+  <a href="#"><img src="{{ '/images/cny-dinner.jpg' | absolute_url }}" alt=""></a>
   <figcaption>Chinese new year dinner 2025</figcaption>
 </figure> 
