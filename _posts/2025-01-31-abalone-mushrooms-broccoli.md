@@ -42,7 +42,7 @@ Pour the sauce over the broccoli.
 
 
 <figure class="align-left">
-  <a href="#"><img src="{{ '/]]/images/lkk-abalone.jpg' | absolute_url }}" alt=""></a>
+  <a href="#"><img src="{{ '/images/lkk-abalone.jpg' | absolute_url }}" alt=""></a>
   <figcaption>Lee Kum Kee abalone in premium oyster sauce</figcaption>
 </figure> 
 
