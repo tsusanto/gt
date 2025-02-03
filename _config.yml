@@ -79,6 +79,13 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
+
+# Collections
+collections:
+  journal:
+    output: true
+    permalink: /:collection/:path/
+    
 # Front Matter Defaults
 defaults:
   # Posts defaults
