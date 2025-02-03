@@ -1,6 +1,7 @@
 ---
+title: Journal
 layout: collection
-limit: 10
-show_excerpts: true
+permalink: /journal/
+collection: journal
 entries_layout: list
 ---
