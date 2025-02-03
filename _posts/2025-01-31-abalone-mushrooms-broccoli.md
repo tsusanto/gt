@@ -1,8 +1,8 @@
 ---
 title: "Abalone with mushrooms"
 image: 
-  path: /docs/images/abalone-mushrooms.jpg
-  thumbnail: /docs/images/abalone-mushrooms.jpg
+  path: /images/abalone-mushrooms.jpg
+  thumbnail: /images/abalone-mushrooms.jpg
 categories:
   - recipe
 tags:

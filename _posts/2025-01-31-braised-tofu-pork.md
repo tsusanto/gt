@@ -1,8 +1,8 @@
 ---
 title: "Braised Tofu with Pork"
 image: 
-  path: /docs/images/braised-tofu-pork.jpg
-  thumbnail: /docs/images/braised-tofu-pork.jpg
+  path: /images/braised-tofu-pork.jpg
+  thumbnail: /images/braised-tofu-pork.jpg
 categories:
   - recipe
 tags:

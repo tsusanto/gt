@@ -1,8 +1,8 @@
 ---
 title: "Snow peas stir fry"
 image: 
-  path: /docs/images/snow-peas.jpg
-  thumbnail: /docs/images/snow-peas.jpg
+  path: /images/snow-peas.jpg
+  thumbnail: /images/snow-peas.jpg
 categories:
   - recipe
 tags:

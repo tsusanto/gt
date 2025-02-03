@@ -1,8 +1,8 @@
 ---
 title: "Woodear mushrooms with cucumber salad"
 image: 
-  path: /docs/images/woodear-mushrooms-cucumber-salad.jpg
-  thumbnail: /docs/images/woodear-mushrooms-cucumber-salad.jpg
+  path: /images/woodear-mushrooms-cucumber-salad.jpg
+  thumbnail: /images/woodear-mushrooms-cucumber-salad.jpg
 categories:
   - recipe
 tags:
