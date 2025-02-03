@@ -100,7 +100,7 @@ defaults:
       path: "_journal"
       type: journal
     values:
-      layout: post
+      layout: collection
       comments: true
       share: true
       

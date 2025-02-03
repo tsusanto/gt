@@ -1,5 +1,5 @@
 ---
-title: Journal
+title: My Gratitude Journal
 layout: collection
 permalink: /journal/
 collection: journal
