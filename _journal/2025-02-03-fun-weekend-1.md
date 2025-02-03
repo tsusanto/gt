@@ -1,8 +1,6 @@
 ---
 title: "February 2025"
 image: 
-  path: /images/gochujang-ground-pork.jpg
-  thumbnail: /images/gochujang-ground-pork.jpg
 categories:
   - journal
 tags:
