@@ -89,6 +89,14 @@ defaults:
       layout: post
       share: true
 
+  - scope:
+      path: "_journal"
+      type: journal
+    values:
+      layout: post
+      comments: true
+      share: true
+      
 # Site Author
 author:
   name:
