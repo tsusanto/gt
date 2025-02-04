@@ -25,7 +25,7 @@ Heat up 2 tablespoon of oil in a pan, add garlic and stir fry for a minute. Add 
 We like our vegetables crunchy so I don't cook it for too long.
 
 <figure class="align-left">
-  <a href="#"><img src="{{ '/docs/images/romaine-lettuce.jpg' | absolute_url }}" alt=""></a>
+  <a href="#"><img src="{{ '/images/romaine-lettuce.jpg' | absolute_url }}" alt=""></a>
   <figcaption>Romaine lettuce</figcaption>
 </figure> 
 
