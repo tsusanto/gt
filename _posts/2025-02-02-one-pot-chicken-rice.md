@@ -1,5 +1,5 @@
 ---
-title: "Snow peas stir fry"
+title: "One pot chicken rice"
 image: 
   path: /images/one-pot-chicken-rice.jpg
   thumbnail: /images/one-pot-chicken-rice.jpg
