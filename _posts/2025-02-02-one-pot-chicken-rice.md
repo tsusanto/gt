@@ -49,6 +49,6 @@ I like to eat it with a dipping sauce made of sliced thai chili and soy sauce.
 
 <figure class="align-left">
   <a href="#"><img src="{{ '/images/chicken-rice-mixed.jpg' | absolute_url }}" alt=""></a>
-  <figcaption>Romaine lettuce</figcaption>
+  <figcaption>One pot chinese chicken rice</figcaption>
 </figure> 
 
