@@ -40,8 +40,6 @@ Add 2 cups of water to pan and close the lid. Make sure your lid has a hole for 
 
 After 5 minutes, open the lid and add the chicken on top of the rice. Add more water if it seems too dry. Close the lid and let it cook for another 15 minutes under low heat.
 
-You can add more water if the rice looks uncooked and all the water has evaporated.
-
 Turn off the stove and let the chicken rice sit with the lid on for another 10 minutes.
 
 Open the lid and immediately pour some dark soy sauce, sesame oil, salt and white pepper. Give it a good mix and garnish with cilantro.
