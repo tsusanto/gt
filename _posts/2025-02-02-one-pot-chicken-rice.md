@@ -17,7 +17,7 @@ This dish is inspired by Singaporean claypot chicken rice. I made this using jus
 Ingredients:
 * 2 chinese sausage
 * 6 dried mushrooms - soaked in hot water, sliced
-* 1.5 cup of rice - washed
+* 1.5 cup of white rice - washed
 * 2 chicken wings/chicken thighs
 * dark soy sauce
 * sesame oil
@@ -26,6 +26,7 @@ Ingredients:
 * 4 cloves of garlic - finely chopped
 * cilantro 
 * brown sugar
+* white pepper
 
 Cut the chicken into pieces and marinate it with white pepper, dark soy sauce, soy sauce and brown sugar for 10 minutes.
 
@@ -37,13 +38,13 @@ In the same pan, put in the rice and stir fry it. Add some water and sesame oil.
 
 Add 2 cups of water to pan and close the lid. Make sure your lid has a hole for the steam to escape. I like using a glass lid so I can see through it.
 
-After 5 minutes, open the lid and add the chicken on top of the rice. Add a bit of water if it seems too dry. Close the lid and let it cook for another 12 minutes under low heat.
+After 5 minutes, open the lid and add the chicken on top of the rice. Add more water if it seems too dry. Close the lid and let it cook for another 15 minutes under low heat.
 
 You can add more water if the rice looks uncooked and all the water has evaporated.
 
 Turn off the stove and let the chicken rice sit with the lid on for another 10 minutes.
 
-Open the lid and immediately pour some dark soy sauce, sesame oil, salt and pepper. Give it a good mix and garnish with cilantro.
+Open the lid and immediately pour some dark soy sauce, sesame oil, salt and white pepper. Give it a good mix and garnish with cilantro.
 
 I like to eat it with a dipping sauce made of sliced thai chili and soy sauce.
 
