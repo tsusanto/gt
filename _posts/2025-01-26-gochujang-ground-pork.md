@@ -36,7 +36,7 @@ Add sauce and mix well for about 1 minute. Done!
 
 Garnish with sesame seeds, green parts of the green onions. 
 
-We love to eat it with white rice and some boiled eggs.
+We love to eat it with white rice and some boiled eggs and a side salad of arugula or romaine lettuce.
 
 
 
