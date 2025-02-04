@@ -1,5 +1,5 @@
 ---
-title: "One pot chicken rice"
+title: "One pot chinese chicken rice"
 image: 
   path: /images/one-pot-chicken-rice.jpg
   thumbnail: /images/one-pot-chicken-rice.jpg
