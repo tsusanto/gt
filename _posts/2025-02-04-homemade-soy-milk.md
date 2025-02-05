@@ -22,7 +22,7 @@ Ingredients:
 Cut the chicken into pieces and marinate it with white pepper, dark soy sauce, soy sauce and brown sugar for 10 minutes.
 
 <figure class="align-left">
-  <a href="#"><img src="{{ '/images/soy-milk.jpg' | absolute_url }}" alt=""></a>
+  <a href="#"><img src="{{ '/images/soy-milk-cooking.jpg' | absolute_url }}" alt=""></a>
   <figcaption>Homemade Soy Milk</figcaption>
 </figure> 
 
