@@ -14,6 +14,7 @@ I love grocery shopping, and I am a big fan of Trader Joe's. I'm thankful we liv
 
 With the exception of sliced olives, all the ingredients for this sandwich were bought at Trader Joe's. 
 
+Makes 4 sandwiches.
 
 Ingredients:
 * 4 chicken thighs (bone in, skin on from Trader Joe's)
@@ -22,7 +23,7 @@ Ingredients:
 * Trader Joe's pesto basil
 * 2 roma tomatoes, sliced
 * sliced olives
-* 4 sliced cheese (provolone/swiss/cheddar)
+* 8 sliced cheese (2 slices per sandwich)
 * Italian seasoning, pepper, salt, olive oil
 
 Debone the chicken thighs and discard the skin. I like to save the bones and freeze it in a ziploc bag for making chicken stock as we love eating noodle soups.
