@@ -22,7 +22,7 @@ Ingredients:
 * rock sugar to taste
 * pandan leaves, optional
 
-Blend the drained soy beans with 3 cups of water, then filter the milk with a mesh strainer directly into a sauce pan. 
+Blend the drained soy beans with 4 cups of water, then filter the milk with a mesh strainer directly into a sauce pan. 
 
 Add rock sugar according to taste. I also added some frozen pandan leaves for extra flavor, but this is totally optional.
 
