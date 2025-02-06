@@ -36,6 +36,6 @@ Add garlic, ginger, dark soy sauce, sweet soy sauce, cracked black pepper, star 
 
 Add water and tamarind juice to the pan, and let it simmer for another 30 minutes on low heat.
 
-This dish also tastes better the next day so it's a good dish to make ahead.
+This dish tastes better the next day so it's a good dish to make ahead. Reheat the dish in a saucepan, add some water if necessary.
 
 Garnish with cilantro and best enjoyed with steamed white rice.
