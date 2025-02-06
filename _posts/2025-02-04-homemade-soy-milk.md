@@ -12,7 +12,7 @@ last_modified_at: 2025-02-03T16:19:55-05:00
 
 I enjoy soy milk, especially with chinese fried doughnut dipped in it.
 
-I got inspired to make my own when I visited a friend and she showed me her Joyoung soy milk maker. The soy milk was absolutely delicious, very flavorful and very creamy.
+I got inspired to make my own when I visited a friend and she showed me her Joyoung soy milk maker. The soy milk made by the machine was absolutely delicious, very flavorful and very creamy.
 
 I don't drink enough soy milk to justify an expensive machine but was curious if I could make it at home. I'm pretty happy with the results.
 
