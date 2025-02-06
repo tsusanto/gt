@@ -1,5 +1,5 @@
 ---
-title: "Abalone with mushrooms"
+title: "Abalone with Mushrooms"
 image: 
   path: /images/abalone-mushrooms.jpg
   thumbnail: /images/abalone-mushrooms.jpg

@@ -1,5 +1,5 @@
 ---
-title: "Woodear mushrooms with cucumber salad"
+title: "Woodear Mushrooms Cucumber Salad"
 image: 
   path: /images/woodear-mushrooms-cucumber-salad.jpg
   thumbnail: /images/woodear-mushrooms-cucumber-salad.jpg

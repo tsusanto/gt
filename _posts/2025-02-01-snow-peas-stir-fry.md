@@ -1,5 +1,5 @@
 ---
-title: "Snow peas stir fry"
+title: "Snow Peas Stir-Fry"
 image: 
   path: /images/snow-peas.jpg
   thumbnail: /images/snow-peas.jpg
