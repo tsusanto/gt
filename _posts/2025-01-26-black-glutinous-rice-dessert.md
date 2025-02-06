@@ -6,7 +6,7 @@ image:
 categories:
   - recipe
 tags:
-  - korean recipe
+  - indonesian recipe
 last_modified_at: 2026-01-26T16:19:55-05:00
 ---
 
