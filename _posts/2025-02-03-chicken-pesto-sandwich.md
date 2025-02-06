@@ -34,13 +34,15 @@ Heat up a grill pan. When the pan is hot, add the chicken pieces and grill for 8
 
 Let the chicken cool before dicing it.
 
-Broil the brioche buns face up with the sliced cheese laid on top of the bottom half of the buns. Take it out when the cheese has melted a little.
+On the top half of the buns, spread a generous amount of basil pesto, add the diced chicken and add one sliced cheese.  
 
-Add sliced olives on top of the cheese. Top it with arugula and sliced tomatoes.
+On the bottom half of the buns, add one sliced cheese.
 
-On the top half of the buns, spread a generous amount of basil pesto, add the diced chicken and push the buns together.  
+Broil the buns face up and take it out when the cheese has melted a little.
 
-Heat up the same grill pan again using medium heat. Place the sandwich in the pan and flatten it with a spatula or use the back of a plate. Flip over after 2 minutes and heat up the other side for another 2 minutes.
+Add sliced olives on the bottom half. Top it with arugula and sliced tomatoes. Assemble the buns into 4 sandwiches.
+
+Heat up the same grill pan again using medium heat. Place the sandwiches in the pan and flatten it with a spatula or use the back of a plate. Flip over after 2 minutes and heat up the other side for another 2 minutes.
 
  
 <figure class="align-left">
