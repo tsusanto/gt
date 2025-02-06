@@ -32,7 +32,7 @@ Boil the pork shoulder for about 8 minutes. This step is to reduce the porkyness
 
 In a saucepan, add some oil on medium heat. Pan fry the pork pieces until evenly brown. 
 
-Add garlic, ginger, dark soy sauce, sweet soy sauce, cracked black pepper, star anise and continue pan frying for another 10 minutes.
+Add garlic, ginger, dark soy sauce, sweet soy sauce, cracked black pepper, star anise and continue pan frying for another 10 minutes. Stir occassionally.
 
 Add water and tamarind juice to the pan, and let it simmer for another 30 minutes on low heat.
 
