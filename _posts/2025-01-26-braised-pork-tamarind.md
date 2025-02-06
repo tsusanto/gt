@@ -28,7 +28,7 @@ Prepare the tamarind juice by cutting about 2 inches square off the tamarind pul
 
 Mesh the tamarind pulp with your hands to get the tamarind flesh off the seeds. Strain the tamarind liquid into a small bowl and set it aside.
 
-Boil the pork shoulder for about 5 minutes. Rinse the pork and cut into bite sized pieces.
+Boil the pork shoulder for about 5 minutes. This step is to reduce the porkyness smell. Rinse the pork and cut into bite sized pieces.
 
 In a saucepan, add some oil on medium heat. Pan fry the pork pieces until evenly brown. 
 
