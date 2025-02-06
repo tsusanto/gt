@@ -22,7 +22,7 @@ Ingredients:
 
 Follow the instructions on your fried chicken seasoning mix. I added extra cornstarch just before deep frying it.
  
-Don't overcrowed the pot. I did mine in 2 batches. 
+Don't overcrowd the pot. I did mine in 2 batches. 
 
 Heat up enough oil to cover the wings, set it to 390F. I really love cooking on induction cooktop as you can easily set the temperature and set a timer too. 
 
