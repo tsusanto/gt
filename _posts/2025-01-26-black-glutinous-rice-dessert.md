@@ -27,9 +27,9 @@ Add the rice, water, sugar and pandan leaves to a saucepan. Boil on low heat for
 
 Let it cool down and store it in the fridge overnight. It tastes better the next day.
 
-To serve, I scoop a few spoonful of the rice porridge, add some hot water and coconut milk into a bowl and microwave it for a minute. 
+To serve, scoop a few spoonful of the rice porridge, add some hot water and coconut milk into a bowl and microwave it for a minute. 
 
-Then I sprinkle some salt and mix it well.
+Sprinkle some salt and mix it well and serve immediately.
 
 <figure class="align-left">
   <a href="#"><img src="{{ '/images/bubur-pulut-hitam.jpg' | absolute_url }}" alt=""></a>
