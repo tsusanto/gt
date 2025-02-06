@@ -14,14 +14,14 @@ last_modified_at: 2026-01-26T16:19:55-05:00
 This dessert is called "Bubur pulut hitam" in Indonesia. It's a simple dessert made with glutinous rice, palm sugar and coconut milk.
 
 Ingredients:
-* 2/3 cup of black glutinous rice 
-* 1/3 cup of white glutinous Rice
+* 2/3 cup of Thai black glutinous rice 
+* 1/3 cup of Thai white glutinous Rice
 * 5 cups of water
 * palm sugar or dark brown sugar to taste
 * pandan leaves 
 * coconut milk
 
-Rinse and soak the rice overnight, you can combine the rice into one bowl and soak.
+Rinse and soak the rice overnight, you can combine the black and white glutinous rice into one bowl and soak.
 
 Add the rice, water, sugar and pandan leaves to a saucepan. Boil on low heat for 45 minutes. Stir frequently.
 
