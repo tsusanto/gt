@@ -18,7 +18,7 @@ Ingredients:
 * 1/3 cup of Thai white glutinous Rice
 * 5 cups of water
 * palm sugar or dark brown sugar to taste
-* pandan leaves 
+* 1 stalk of pandan leaves 
 * coconut milk
 
 Rinse and soak the rice overnight, you can combine the black and white glutinous rice into one bowl and soak.
