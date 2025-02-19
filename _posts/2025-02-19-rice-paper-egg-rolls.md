@@ -19,19 +19,16 @@ Ingredients:
 * 1 tablespoon sesame oil
 * 2 tablespoon soy sauce 
 * 1 tablespoon cornstarch
+* 10 sheets of rice paper
 
 
-I found these adorable mini lasagna pasta at Winco. I love going to Winco for its bulk section as I can try out new ingredients in small quantities. 
+Soak glass noodles for about 20 minutes. Cut into small pieces with a scissors. Soak black woodear mushrooms in warm water for 10 minutes and slice thinly. Shred the carrots.
 
-You can totally adjust the amount of the ingredients, if you like more cheese, by all means pile on the cheese.
+Mix ground pork with glass noodles, mushrooms, carrots, salt, white pepper, soy sauce, sesame oil and cornstarch.
 
-Boil the pasta al dente and set it aside. Stir fry the italian sausage until cooked, drain excess oil.
+Dip the rice paper in water, put 2 tablespoons of filling in it and roll it up.
 
-Layer an oven proof pan with the marinara sauce, then add half the pasta, and half the italian sausage. Add ricotta cheese and spinach, and pour more marinara sauce over it. 
-Add remaining sausage, pasta and mozzarella cheese. Top it with marinara sauce. Spread the sauce around to cover all the ingredients. Sprinkle dried oregano on top. 
-
-Cover pan with aluminium foil, bake at 375F for 30 minutes. Remove foil and bake for another 15 minutes.
-
+Deep fry the rice paper egg rolls in hot oil for 8-10 minutes.
 
 
 
