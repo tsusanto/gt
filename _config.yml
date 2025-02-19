@@ -85,6 +85,10 @@ collections:
   journal:
     output: true
     permalink: /:collection/:title/
+ 
+  comments:
+    output: true
+    permalink: /:collection/:title/
     
 # Front Matter Defaults
 defaults:
@@ -99,6 +103,14 @@ defaults:
   - scope:
       path: "_journal"
       type: journal
+    values:
+      layout: collection
+      comments: true
+      share: false
+      
+  - scope:
+      path: "_comments"
+      type: comments
     values:
       layout: collection
       comments: true
