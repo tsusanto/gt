@@ -20,6 +20,7 @@ Ingredients:
 * 2 tablespoon soy sauce 
 * 1 tablespoon cornstarch
 * 10 sheets of rice paper
+* thai sweet chili sauce
 
 
 Soak glass noodles for about 20 minutes. Cut into small pieces with a scissors. Soak black woodear mushrooms in warm water for 10 minutes and slice thinly. Shred the carrots.
@@ -29,6 +30,8 @@ Mix ground pork with glass noodles, mushrooms, carrots, salt, white pepper, soy 
 Dip the rice paper in water, put 2 tablespoons of filling in it and roll it up.
 
 Deep fry the rice paper egg rolls in hot oil for 8-10 minutes.
+
+Serve immediately with Thai sweet chili sauce.
 
 
 
