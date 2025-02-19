@@ -1,7 +1,6 @@
 ---
 layout: collection
 permalink: /comments/
-collection: journal
 entries_layout: list
 ---
 
