@@ -1,5 +1,5 @@
 ---
-title: "Shredded Pork With Bean Curd"
+title: "Shredded Pork with Bean Curd"
 image: 
   path: /images/shredded-pork-bean-curd.jpg
   thumbnail: /images/shredded-pork-bean-curd.jpg
