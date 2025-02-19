@@ -4,8 +4,8 @@
   url: /
 #- title: Journal
 #  url: /journal/
-# - title: Categories
-#   url: /categories/
+- title: Comments
+   url: /comments/
 # - title: Tags
 #   url: /tags/
 # - title: Recipes
