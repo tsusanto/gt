@@ -16,6 +16,20 @@ Greg and I partnered up to play pickleball together and we both were playing pre
 
 We got home and made this dinner, and decided we deserve to have some beer. Greg put on some chill vibes music, toasted each other with our beers and happily munched away on our pork belly wraps. Life is good and we are so blessed.
 
+Ingredients:
+* 1 lb pork belly, sliced into 1/2 inch thick slices
+* ssamjang sauce (4 tbsp korean doenjang, 1 tablespoon gochujang, 1 tablespoon sesame oil, 1 clove minced garlic, mirin, honey, water to dilute it, mix well)
+* fresh lettuce leaves
+* sliced kim chi
+* steamed rice
+
+There is no need to season the pork as it's eaten with ssamjang sauce, which is quite salty. 
+
+I like to boil the pork for about 10 minutes to reduce the taste of porkiness. 
+
+Pan fry the pork slices in a grill pan, no oil necessary. Pan fry each side for about 5 minutes each. Take the pork slices out and cut into thin bite sized pieces. Put the pork pieces back in the grill pan and cook for another 5 minutes, stir it a couple times to even char on all sides.
+
+Assemble the wraps by taking a lettuce leaf, a spoonful of rice, a little bit of kimchi, 2-3 pork pieces and top it with ssamjang sauce. Eat it immediately and wash it down with beer.
 
 <figure class="align-left">
   <a href="#"><img src="{{ '/images/pork-belly-ssamjang-wrap.jpg' | absolute_url }}" alt="pork belly with Ssamjang sauce"></a>
