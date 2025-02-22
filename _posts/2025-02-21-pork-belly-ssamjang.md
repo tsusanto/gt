@@ -25,7 +25,7 @@ Ingredients:
 
 There is no need to season the pork as it's eaten with ssamjang sauce, which is quite salty. 
 
-I like to boil the pork for about 10 minutes to reduce the taste of porkiness. 
+I like to boil the pork for about 10 minutes to clean it and reduce the taste of porkiness, but this step is optional. 
 
 Pan fry the pork slices in a grill pan, no oil necessary. Pan fry each side for about 5 minutes each. Take the pork slices out and cut into thin bite sized pieces. Put the pork pieces back in the grill pan and cook for another 5 minutes, stir it a couple times to even char on all sides.
 
