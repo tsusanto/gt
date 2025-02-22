@@ -27,7 +27,7 @@ There is no need to season the pork as it's eaten with ssamjang sauce, which is 
 
 I like to boil the pork for about 10 minutes to clean it and reduce the taste of porkiness, but this step is optional. 
 
-Pan fry the pork slices in a grill pan, no oil necessary. Pan fry each side for about 5 minutes each. Take the pork slices out and cut into thin bite sized pieces. Put the pork pieces back in the grill pan and cook for another 5 minutes, stir it a couple times to even char on all sides.
+Heat up a non stick grill pan preferably with grooves so the oil can drip down, no oil necessary. Pan fry each side for about 5 minutes each. Take the pork slices out and cut into thin bite sized pieces. Put the pork pieces back in the grill pan and cook for another 5 minutes, stir it a couple times to even char on all sides.
 
 Assemble the wraps by taking a lettuce leaf, a spoonful of rice, a little bit of kimchi, 2-3 pork pieces and top it with ssamjang sauce. Eat it immediately and wash it down with beer.
 
