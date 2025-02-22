@@ -14,7 +14,7 @@ This is a super fun dinner to eat, and very easy too. The combination of the fat
 
 Greg and I partnered up to play pickleball together and we both were playing pretty badly. It was frustrating. I am grateful though that we are very supportive of each other when we play together, regardless of whether we played well or not. We have so much fun playing pickleball together. 
 
-We got home and made this dinner, and decided we deserve to have some beer. Greg put on some chill vibes music, we cheerfully toasted each other with our beers, quick kiss which is a tradition we have before we eat, then happily munched away on our pork belly wraps. Life is good and we are so blessed.
+We got home and made this dinner, and decided we deserve to have some beer. Greg put on some chill vibes music, we cheerfully toasted each other with our beers, a quick kiss which is a tradition we have before we eat, then happily munched away on our pork belly wraps. Life is good and we are so blessed.
 
 Ingredients:
 * 1 lb pork belly, sliced into 1/2 inch thick slices
