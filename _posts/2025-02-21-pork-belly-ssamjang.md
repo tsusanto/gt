@@ -18,7 +18,7 @@ We got home and made this dinner, and decided we deserve to have some beer. Greg
 
 Ingredients:
 * 1 lb pork belly, sliced into 1/2 inch thick slices
-* ssamjang sauce (4 tbsp korean doenjang, 1 tablespoon gochujang, 1 tablespoon sesame oil, 1 clove minced garlic, mirin, honey, water to dilute it, mix well)
+* ssamjang sauce (4 tbsp korean doenjang, 1 tbsp gochujang, 1 tbsp sesame oil, 1 clove minced garlic, mirin, honey, water to dilute it, mix well)
 * fresh lettuce leaves
 * sliced kim chi
 * steamed rice
