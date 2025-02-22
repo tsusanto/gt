@@ -17,8 +17,8 @@ Greg and I partnered up to play pickleball today and we both were playing pretty
 We got home and made this dinner, and decided we deserve to have some beer. Greg put on some chill vibes music, we cheerfully toasted each other with our beers, a quick kiss which is a tradition we have before we eat, then happily munched away on our pork belly wraps. Life is good and we are so blessed.
 
 Ingredients:
-* 1 lb pork belly, sliced into 1/2 inch thick slices
-* ssamjang sauce (4 tbsp korean doenjang, 1 tbsp gochujang, 1 tbsp sesame oil, 1 clove minced garlic, mirin, honey, water to dilute it, mix well)
+* 1 lb pork belly, sliced into thick slices
+* ssamjang dipping sauce (4 tbsp korean doenjang, 1 tbsp gochujang, 1 tbsp sesame oil, 1 clove minced garlic, mirin, honey, water to dilute it, mix well)
 * fresh lettuce leaves
 * sliced kim chi
 * steamed rice
