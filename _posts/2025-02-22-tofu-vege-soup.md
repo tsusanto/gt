@@ -12,7 +12,7 @@ last_modified_at: 2025-02-22T16:19:55-05:00
 
 I woke up this morning well rested and feeling content. This house is such a joy to wake up to, Greg always keeps it so clean and clutter free. I often start my day with a 10 minute meditation, and some stretching. 
 
-We are both lucky to have a fully remote chill jobs, which means we rarely feel rushed for the entire day, pretty much every day including weekdays. This to me is true luxury.
+We are both lucky to have a fully remote chill jobs, which means we rarely feel rushed for the entire day, pretty much every day including weekdays. I have the time to cook healthy delicious meals. All these to me, is true luxury.
 
 We overindulged last night on the pork belly with ssamjang wraps and beer, today a simple tofu soup with vegetables seemed like the perfect little lunch. 
 
