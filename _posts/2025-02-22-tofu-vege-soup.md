@@ -14,8 +14,7 @@ I woke up this morning well rested and feeling content. This house is such a joy
 
 We are both lucky to have a fully remote chill jobs, which means we rarely feel rushed for the entire day, pretty much every day including weekdays. This to me is true luxury.
 
-
-We overindulged last night on the pork belly with ssamjang wraps and beer, today a simple tofu soup with vegetables seemed like the perfect little lunch.
+We overindulged last night on the pork belly with ssamjang wraps and beer, today a simple tofu soup with vegetables seemed like the perfect little lunch. 
 
 I love this locally made tofu, it's sold in a plastic bag filled with water, not too firm or soft, and very good tofu flavor. You can adjust the amount of the vegetables per your liking.
 
