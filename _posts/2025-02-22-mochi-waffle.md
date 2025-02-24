@@ -31,5 +31,5 @@ Whisk the egg, milk, vanilla extract ingredients in a bowl. In a separate bowl, 
 
 Brush the waffle maker with some melted butter. Pour batter and cook for 3 minutes or until golden brown.
 
-We like to eat it with ice cream, whipped cream and fresh fruit.
+We like to eat it with ice cream, whipped cream and fresh fruits.
  
