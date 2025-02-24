@@ -10,7 +10,7 @@ tags:
 last_modified_at: 2025-02-22T17:19:55-05:00
 ---
 
-Today felt like such a productive day even though we only spent 1 hour on it. 
+Today felt like such a productive day even though we only spent an hour and a half working on it. 
 
 Greg and I built a metal rack for our garage, and moved all the stuff we had lying on the floor and neatly organized them on the rack. We then stood there together for a good full minute and admired our work, then looked at each other, smiled and did a silent high five.
 
