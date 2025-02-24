@@ -14,7 +14,7 @@ Today felt like such a productive day even though we only spent an hour and a ha
 
 Greg and I built a metal rack for our garage, and moved all the stuff we had lying on the floor and neatly organized them on the rack. We then stood there together for a good full minute and admired our work, then looked at each other, smiled and did a silent high five.
 
-Some things are just so much easier when done as a team.
+I bet we have the neatest garage on our street. 
 
 We then decided we deserved a sweet treat for having worked so hard.
 
