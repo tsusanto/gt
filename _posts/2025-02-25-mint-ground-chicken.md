@@ -28,9 +28,9 @@ Ingredients:
 * salt and white pepper 
 * generous amount of mint leaves, coarsely chopped
 
-Heat up some oil in a pan, add ground chicken. Stir fry for 5-7 minutes until the grease of the chicken comes out. 
+Heat up some oil in a pan, add ground chicken. Stir fry for 5 minutes until the grease of the chicken comes out. 
 
-Add garlic, onion, bell peppers, thai chilli, oyster sauce, dark soy sauce and sugar. Stir fry for another 8 minutes. This process takes a while so be patient. We want most of the sauce to evaporate. 
+Add garlic, onion, bell peppers, thai chilli, oyster sauce, dark soy sauce and sugar. Stir fry for another 10 minutes. This process takes a while so be patient. We want most of the sauce to evaporate. 
 
 Add salt and pepper to taste. 
 
