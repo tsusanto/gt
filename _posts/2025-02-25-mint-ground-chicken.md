@@ -10,25 +10,29 @@ tags:
 last_modified_at: 2025-02-25T16:19:55-05:00
 ---
 
-I woke up this morning well rested and feeling content. Our house is such a joy to wake up to, always at a comfortable temperature thanks to great insulation, and Greg always keeps it so clean and clutter free. I often start my day with a 10 minute meditation, and some stretching in our living room.
+Greg and I went to a trivia night with some friends and we had such a blast. We won second place and received a $100 in dining credits. We were so shocked when they announced that "Shadow Ninjas", which is our team name, got second place. I'm so proud of us.
 
-We are both lucky to have fully remote chill jobs, which means we rarely feel rushed for the entire day, every day. I have the time to cook healthy delicious meals in either our clean spacious kitchen or backyard kitchen.  All these to me, is true luxury.
+Some fun questions. What do you call a female elephant?
 
-I feel so blessed and grateful for all the good things in our lives.
-
-We overindulged last night on the pork belly with ssamjang wraps and beer, today a simple tofu soup with vegetables seemed like the perfect little lunch. 
-
-I love this locally made tofu, it's sold in a plastic bag filled with water, not too firm or soft, and very good tofu flavor. You can adjust the amount of the vegetables per your liking.
+We have an abundance of very healthy mint growing in our raised vegetable bed. I've been looking to use it in my cooking, and came up with this dish which uses a lot of mint instead of the usual thai basil.
 
 Ingredients:
-* 1 pack of tofu 
-* dashi packet (I use Kayanoya brand)
-* daikon
-* crysanthemum greens (tong ho)
-* green onions
-* white pepper 
-* dried seaweed 
+* 1 lb of ground chicken 
+* 1/2 onion - chopped
+* 2 cloves garlic - minced
+* sweet bell peppers
+* 2 tablespoons oyster sauce
+* 2 tablespoons dark soy sauce
+* 1 tablespoon sugar
+* 2 thai chilli, finely chopped
+* salt and white pepper 
+* generous amount of mint leaves, coarsely chopped
 
-Boil some water with the dashi packet for 5 minutes. Discard the dashi packet. Add the rest of the ingredients, add salt and pepper to taste. 
+Heat up some oil in a pan, add ground chicken. Stir fry for 5-7 minutes until the grease of the chicken comes out. 
 
- 
+Add garlic, onion, bell peppers, thai chilli, oyster sauce, dark soy sauce and sugar. Stir fry for another 8 minutes. This process takes a while so be patient. We want most of the sauce to evaporate. 
+
+Add salt and pepper to taste. 
+
+Add the mint leaves and give it a quick stir and turn off the heat. Garnish with a few fresh mint leaves. Serve immediately with white rice.
+
