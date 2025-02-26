@@ -12,7 +12,7 @@ last_modified_at: 2025-02-25T16:19:55-05:00
 
 Greg and I went to a trivia night with some friends and we had such a blast. Our friends formed their own team. We won second place and received a $100 in dining credits. We were so shocked when they announced that "Shadow Ninjas", which is our team name, got second place. I'm so proud of us.
 
-Some fun questions. What do you call a female elephant? What causes Mars to appear red? 
+Some fun questions. What do you call a female elephant? What causes Mars to look reddish? 
 
 We have an abundance of very healthy mint growing in our raised vegetable bed. I've been looking to use it in my cooking, and came up with this dish which uses a lot of mint instead of the usual thai basil.
 
