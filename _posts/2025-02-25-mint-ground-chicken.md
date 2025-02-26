@@ -23,12 +23,14 @@ Ingredients:
 * sweet bell peppers
 * 2 tablespoons oyster sauce
 * 2 tablespoons dark soy sauce
+* 1/2 teaspoon coridander powder
+* 1/2 teaspoon cumin powder
 * 1 tablespoon sugar
 * 2 thai chilli, finely chopped
 * salt and white pepper 
 * generous amount of mint leaves, coarsely chopped
 
-Heat up some oil in a pan, add ground chicken. Stir fry for 5 minutes until the grease of the chicken comes out. 
+Heat up some oil in a pan, add cumin, coriander, ground chicken. Stir fry for 5 minutes until the grease of the chicken comes out. 
 
 Add garlic, onion, bell peppers, thai chilli, oyster sauce, dark soy sauce and sugar. Stir fry for another 10 minutes. This process takes a while so be patient. We want most of the sauce to evaporate. 
 
