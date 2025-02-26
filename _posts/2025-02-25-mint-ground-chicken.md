@@ -36,3 +36,7 @@ Add salt and pepper to taste.
 
 Add the mint leaves and give it a quick stir and turn off the heat. Garnish with a few fresh mint leaves. Serve immediately with white rice.
 
+<figure class="align-left">
+  <a href="#"><img src="{{ '/images/mint.jpg' | absolute_url }}" alt=""></a>
+  <figcaption>Mint in our garden</figcaption>
+</figure> 
