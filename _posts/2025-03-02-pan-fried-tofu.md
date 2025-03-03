@@ -10,7 +10,7 @@ tags:
 last_modified_at: 2025-03-02T16:19:55-05:00
 ---
 
-Greg and I overindulged on food this past weekend. We spent the $100 dining credits from winning trivia night last Tuesday at a fancy Chinese restaurant on Saturday. After dinner, we decided to burn off some of the calories and played some late night pickleball. We did not partner together but we both played pretty well and had fun in our own games.
+Greg and I overindulged on food this past weekend. We spent the $100 dining credits from winning trivia night last Tuesday at a fancy Chinese restaurant on Friday. After dinner, we decided to burn off some of the calories and played some late night pickleball. We did not partner together but we both played pretty well and had fun in our own games.
 
 Then on Saturday we went to a house dinner pot luck party and drank lots of wine and ate lots of delicious food. 
 
