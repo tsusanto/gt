@@ -15,7 +15,6 @@ Ingredients:
 * 1 tablespoon of vegetable oil
 * 2 teaspoons sesame oil
 * 1 teaspoon chili oil
-* 1 tablespoon sesame oil
 * 1 teaspoon Shichimi togarashi
 * 1 clove garlic - finely minced
 * salt to taste
