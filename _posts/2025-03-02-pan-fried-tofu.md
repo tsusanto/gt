@@ -14,7 +14,9 @@ Greg and I overindulged on food this past weekend. We spent the $100 dining cred
 
 Then on Saturday we went to a house dinner pot luck party and drank lots of wine and ate lots of delicious food. 
 
-Today was just a chill Sunday. It started raining late afternoon, and I made a couple of vegetable dishes for dinner to go with a little bit of the slow smoked pork we packed home from the party. 
+Today was just a chill Sunday. We tried out a yoga class at our gym this morning, but we both thought the teacher went too fast and we did not find it fun and relaxing at all. 
+
+It started raining late afternoon, and I made a couple of vegetable dishes for dinner to go with a little bit of the slow smoked pork we packed home from the party. 
  
 Ingredients:
 * 1 pack tofu - thickly sliced
