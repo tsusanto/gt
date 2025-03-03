@@ -13,7 +13,7 @@ last_modified_at: 2025-02-28T16:19:55-05:00
 Ingredients:
 * 1/4 lb tong ho (crysanthemum greens)
 * 1 tablespoon of vegetable oil
-* 1 tablespoon sesame oil
+* 2 teaspoons sesame oil
 * 1 teaspoon chili oil
 * 1 tablespoon sesame oil
 * 1 teaspoon Shichimi togarashi
