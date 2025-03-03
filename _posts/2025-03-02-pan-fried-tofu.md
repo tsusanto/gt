@@ -12,7 +12,7 @@ last_modified_at: 2025-03-02T16:19:55-05:00
 
 Greg and I overindulged on food this past weekend. We spent the $100 dining credits from winning trivia night last Tuesday at a fancy Chinese restaurant on Friday. After dinner, we decided to burn off some of the calories and played some late night pickleball. We did not partner together but we both played pretty well and had fun in our own games.
 
-Then on Saturday we went to a house dinner pot luck party and drank lots of wine and ate lots of delicious food. 
+Then on Saturday we went to a house dinner pot luck party and drank lots of wine and ate lots of delicious food. It was a welcome home party for Greg's high school friend who just moved back here after being gone for 8 years. The more friends we have the merrier, more reasons to celebrate and get together in the future.
 
 Today was just a chill Sunday. We tried out a yoga class at our gym this morning, but we both thought the teacher went too fast and we did not find it fun and relaxing at all. 
 
