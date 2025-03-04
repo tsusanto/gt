@@ -7,7 +7,7 @@ categories:
   - recipe
 tags:
   - dessert
-last_modified_at: 2025-03-02T16:19:55-05:00
+last_modified_at: 2025-03-03T16:19:55-05:00
 ---
 
 I had a pretty perfect well balanced day today. Had a good night's rest, did some work, went for my favorite dance fitness class then made lunch. Worked a little bit more, meditated, did a quick stretch then an hour nap. Greg and I went to play pickleball, I had some very fun ladies games. Then I made a yummy dinner, and Greg ran a hot bath for me. I love our bathtub, it's the right size and always clean. 
