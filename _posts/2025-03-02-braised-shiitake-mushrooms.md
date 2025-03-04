@@ -31,3 +31,9 @@ Ingredients:
 Stir fry garlic in vegetable oil and butter, add sliced mushrooms to pan. Stir fry for another 5 minutes. Add light soy sauce, dark soy sauce, sugar, sesame oil and stir fry for another 2 minutes.
 
 Add water and cover pan. Turn stove to low heat and simmer for 10 minutes. Remove lid and stir fry until most of the liquid evaporates.
+
+
+<figure class="align-left">
+  <a href="#"><img src="{{ '/images/flower-top-shiitake-mushrooms.jpg' | absolute_url }}" alt=""></a>
+  <figcaption>Fresh Flower Top Shiitake Mushrooms</figcaption>
+</figure> 
