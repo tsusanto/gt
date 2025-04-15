@@ -1,5 +1,5 @@
 ---
-title: "Tofu Pork Egg Woodear Mushrooms Stir Fry"
+title: "Braised Tofu Pork Egg Woodear Mushrooms"
 image: 
   path: /images/tofu-pork-woodear.jpg
   thumbnail: /images/tofu-pork-woodear.jpg
