@@ -1,8 +1,8 @@
 ---
 title: "Ginger Garlic Soy Sauce Chicken"
 image: 
-  path: /images/ginger-garlice-soy-sauce-chicken.jpg
-  thumbnail: /images/ginger-garlice-soy-sauce-chicken.jpg
+  path: /images/ginger-garlic-soy-sauce-chicken.jpg
+  thumbnail: /images/ginger-garlic-soy-sauce-chicken.jpg
 categories:
   - recipe
 tags:
