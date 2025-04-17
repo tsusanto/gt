@@ -10,7 +10,7 @@ tags:
 last_modified_at: 2025-04-13T10:19:00-05:00
 ---
 
-I found this pack of knife cut noodles in the refrigerator section of our local asian grocery store and is in love with it. The texture is chewy and takes less than 5 minutes to cook. Right now it's priced at $3.99, I wonder how much it will cost after the tariffs are put into place if Trump does not change his mind yet again.
+I found this pack of knife cut noodles in the refrigerator section of our local asian grocery store and is in love with it. The texture is chewy and takes less than 5 minutes to cook. These noodles are made in China, and is priced at $3.99, I wonder how much it will cost after the tariffs are put into place if Trump does not change his mind yet again.
 
 This is a great way to use up all the vegetables you have leftover. 
 
