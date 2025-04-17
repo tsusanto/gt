@@ -18,7 +18,7 @@ Ingredients:
 * 2 bundles of knife cut noodles
 * ground beef
 * 4 cloves of garlic minced
-* mushrooms, snowpeas, red sweet chili, green bell pepper, green onions, any vegetables
+* mushrooms, snowpeas, red sweet chili, carrots, green bell pepper, green onions, any vegetables
 * Sauce - 1 tblsp sesame oil, 3 tblsp light soy sauce, 1 tblsp dark soy sauce, 2 tblsp oyster sauce, 2 tsp sugar, 1 tblsp korean chili powder , chicken bouillon powder
 * black pepper, salt to taste
 
