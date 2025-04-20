@@ -21,7 +21,7 @@ Ingredients:
 * salt and pepper to taste
 * butter as necessary
 
-Heat up some oil and squeeze the sausage out of it's casing. Stir fry it until cooked. If there isn't enough oil renderings, you can add some butter. Add the flour and keep stirring for 3 minutes.
+Heat up some oil and squeeze the sausage out of its casing. Break sausage small pieces and pan fry until cooked. If there isn't enough oil renderings, you can add some butter. Add the flour and keep stirring for 3 minutes.
 
 Add milk and stir continuously. Season with salt and pepper. The gravy should have thickened up, you can add more milk if needed to adjust the consistency of the gravy.
 
