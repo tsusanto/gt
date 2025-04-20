@@ -25,4 +25,4 @@ Heat up some oil and squeeze the sausage out of its casing. Break sausage into s
 
 Add milk and stir continuously. Season with salt and pepper. The gravy should have thickened up, you can add more milk if needed to adjust the consistency of the gravy.
 
-Server immediately with biscuits.
+Serve immediately with biscuits.
