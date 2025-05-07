@@ -1,5 +1,5 @@
 ---
-title: "coriander Pork Chili Lime"
+title: "Coriander Pork Chili Lime"
 image: 
   path: /images/coriander-pork-chili-lime.jpg
   thumbnail: /images/coriander-pork-chili-lime.jpg
