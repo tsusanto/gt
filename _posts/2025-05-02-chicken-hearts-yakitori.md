@@ -3,6 +3,7 @@ title: "Chicken Hearts Yakitori"
 image: 
   path: /images/chicken-hearts-yakitori.jpg
   thumbnail: /images/chicken-hearts-yakitori.jpg
+categories:
   - recipe
 tags:
   - dessert
