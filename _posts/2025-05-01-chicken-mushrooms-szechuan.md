@@ -1,5 +1,5 @@
 ---
-title: "Chicken With Mushrooms Szechuan Sauce"
+title: "Chicken With Mushrooms In Szechuan Sauce"
 image: 
   path: /images/chicken-mushrooms-szechuan.jpg
   thumbnail: /images/chicken-mushrooms-szechuan.jpg
