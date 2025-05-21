@@ -21,3 +21,7 @@ Stir fry garlic and thai chili in oil, add ground beef, dark soy sauce, szechuan
 
 Add blanched green beans and stir fry for a minute. 
 
+<figure class="align-left">
+  <a href="#"><img src="{{ '/images/tj-french-beans.jpg' | absolute_url }}" alt=""></a>
+  <figcaption>Trader Joe's frozen french haricot</figcaption>
+</figure> 
