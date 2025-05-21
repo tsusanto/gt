@@ -10,8 +10,6 @@ tags:
 last_modified_at: 2025-05-07 19:00-05:00
 ---
 
-This dish is called wanja jeon is korean.
-
 Add crumbled firm tofu, finely diced chopped carrots, ground beef, white pepper, salt, sesame oil, soy sauce, garlic powder to a big bowl and mix well.
 
 Shape into small patties.
