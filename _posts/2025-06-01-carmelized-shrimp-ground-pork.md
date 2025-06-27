@@ -1,5 +1,5 @@
 ---
-title: "Caramelized-Shrimp-Ground-Pork"
+title: "Caramelized Shrimp Ground Pork"
 image: 
   path: /images/caramelized-shrimp-ground-pork.jpg
   thumbnail: /images/caramelized-shrimp-ground-pork.jpg
