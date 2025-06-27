@@ -1,17 +1,19 @@
 ---
-title: "Cumin Lamb"
+title: "Caramelized-Shrimp-Ground-Pork"
 image: 
-  path: /images/cumin-lamb.jpg
-  thumbnail: /images/cumin-lamb.jpg
+  path: /images/caramelized-shrimp-ground-pork.jpg
+  thumbnail: /images/caramelized-shrimp-ground-pork.jpg
 categories:
   - recipe
 tags:
   - dessert
-last_modified_at: 2025-05-11T10:19:00-05:00
+last_modified_at: 2025-06-01T10:19:00-05:00
 ---
 
-Cut lamb shoulder into small cubes. Marinate with shaoxing wine, soy sauce, white pepper, salt and cumin for about 20 minutes.
+Marinate ground pork with white pepper, oyster sauce, soy sauce, chopped up green onions (white part only).
 
-Dice half a red bell pepper, cut scallions into small sections.
+Stir fry ground pepper in oil until slightly browned. Add finely chopped deseeded thai chili, garlic and shallots. Turn up heat and add deshelled shrimp. 
 
-Toast some cumin seeds and set aside. Stir fry the lamb on high heat until almost cooked. Set lamb aside. Add more oil to the pan, stir fry bell pepper, crushed szechuan peppercorns, scallions for about 2 minutes. Add lamb to the pan, a teaspoon of sugar and some dark soy sauce. Mix well and garnish with cilantro.
+Stir fry for 2 minutes and add palm sugar and stir fry until sugar melts. Add fish sauce soy sauce, oyster sauce, kaffir lime leaves.
+
+Add in green onions (green parts), give it a quick stir and serve immediately. 
