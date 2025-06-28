@@ -1,7 +1,6 @@
 ---
 title: "Thai Pork Curry Noodle Soup"
 image: 
-  path: /images/thai-pork-curry-noodle-soup.jpg
   thumbnail: /images/thai-pork-curry-noodle-soup.jpg
 categories:
   - recipe

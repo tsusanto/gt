@@ -1,7 +1,6 @@
 ---
 title: "Grilled Thai Pork Salad"
 image: 
-  path: /images/grilled-thai-pork-salad.jpg
   thumbnail: /images/grilled-thai-pork-salad.jpg
 categories:
   - recipe

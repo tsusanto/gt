@@ -1,7 +1,6 @@
 ---
 title: "Lomo Saltado"
 image: 
-  path: /images/lomo-saltado.jpg
   thumbnail: /images/lomo-saltado.jpg
 categories:
   - recipe
