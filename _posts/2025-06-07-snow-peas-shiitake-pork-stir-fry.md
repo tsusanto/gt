@@ -1,5 +1,5 @@
 ---
-title: "Snow Peas Shiitake-pork Stir Fry"
+title: "Snow Peas Shiitake Mushrooms with Pork Stir Fry"
 image: 
   thumbnail: /images/snow-peas-shiitake-pork-stir-fry.jpg
 categories:
