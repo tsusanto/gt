@@ -1,7 +1,6 @@
 ---
 title: "Mapo Tofu with Ground Beef"
 image: 
-  path: /images/mapo-tofu-ground-beef.jpg
   thumbnail: /images/mapo-tofu-ground-beef.jpg
 categories:
   - recipe

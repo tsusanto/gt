@@ -15,7 +15,7 @@ layout: default
       </div>
 
       <div class="page-content">
-	    {% assign title = page.thumbnail | markdownify | strip_html %}
+	    {% assign title = page.title | markdownify | strip_html %}
 		{% assign page_image = page.image.thumbnail | default: page.image %}
         {% if page.link %}
           <h1 id="page-title" class="page-title p-name"><a href="{{ page.link }}">{{ title }} <span class="link-arrow">&rarr;</span></a></h1>
