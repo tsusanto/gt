@@ -14,3 +14,4 @@ I like using "New York Style Sausage Company" [brand](https://newyorkstylesausag
 Stir fry sliced onions for a few minutes. Add sliced bell peppers, garlic, sausages. Add a can of diced tomatoes, 1 tablespoon of tomato paste, chili flakes. Salt and pepper to taste.
 
 We like it as a sandwich. 
+
