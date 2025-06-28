@@ -2,6 +2,7 @@
 title: "Spicy Italian Sausage Bell Peppers"
 image: 
   thumbnail: /images/spicy-italian-sausage-bell-peppers.jpg
+  path: /images/spicy-italian-sausage-bell-peppers.jpg
 categories:
   - recipe
 tags:
