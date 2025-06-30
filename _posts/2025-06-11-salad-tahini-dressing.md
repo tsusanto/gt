@@ -1,5 +1,5 @@
 ---
-title: "Chipped Salad With Tahini Dressing"
+title: "Chopped Salad With Tahini Dressing"
 image: 
   thumbnail: /images/salad-tahini-dressing.jpg
 categories:
