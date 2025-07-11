@@ -11,11 +11,11 @@ last_modified_at: 2025-07-07T10:19:00-05:00
 
 This recipe makes 8 small pancakes, enough for 2 people.
 
-1 egg
-1/2 cups cottage cheese
-1/2 tablespoon sugar
-3/4 teaspoon baking powder
-1/4 cup all purpose flour
+* 1 egg
+* 1/2 cups cottage cheese
+* 1/2 tablespoon sugar
+* 3/4 teaspoon baking powder
+* 1/4 cup all purpose flour
 
 neutral vegetable oil for pan frying.
 
