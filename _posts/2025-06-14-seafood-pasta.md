@@ -1,12 +1,12 @@
 ---
-title: "Chinese Chives with Eggs and Glass Noodles"
+title: "Seafood Pasta"
 image: 
-  thumbnail: /images/chinese-chives-eggs.jpg
+  thumbnail: /images/seafood-pasta.jpg
 categories:
   - recipe
 tags:
   - dessert
-last_modified_at: 2025-06-05T10:19:00-05:00
+last_modified_at: 2025-07-05T10:19:00-05:00
 ---
 
 I made the tomato sauce using our very flavorful home grown cherry tomatoes.
