@@ -20,17 +20,13 @@ Dallas turned out to be a foodie trip. We enjoyed eating at a mediterranean buff
 
 The pickleball pro tournament was such an amazing and memorable experience for both of us. It was held at Pickler Universe, a topnotch new pickleball facility. Unlike other pro sports, these pickleball pro players were walking around the facility like regular folks so it was very easy to ask them for autographs or take a photo. They are all so nice and friendly. 
 
-The tournament sponsors gave out free generous samples of cocktails, wine and beer. We had many helpings of it and thoroughly enjoyed the drinks with our korean bento box with it. 
+The tournament sponsors gave out free generous samples of cocktails, wine and beer. We had many helpings of it and thoroughly enjoyed the drinks with our delicious korean bento box lunch. 
 
-The korean bento box was so good it inspired me to make bento style meals at home too, so I bought some bento boxes and used it at home for our meals.
+The korean bento box was so good it inspired me to make bento style meals at home, so I bought some bento boxes and used it at home for our meals.
 
 Today is the first time I used them and it turned out well.
 
 I'm really grateful to have nice neighbors. One of them gave us a big bunch of yard long beans they grew in their backyard and I used it in tonight's dinner.
-
-We had a huge success with our two cherry tomato plants this year, I've been able to harvest a pound of tomatoes every other day. They are very flavorful and I use it in my cooking everyday. 
-
-We redid our backyard last year and put in one vegetable planter, it was a fun team effort in designing and hiring contractors to build it. G and I make a great team.
 
 <figure class="align-left">
   <a href="#"><img src="{{ '/images/meatbanchan-bento.jpg' | absolute_url }}" alt=""></a>
