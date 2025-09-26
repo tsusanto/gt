@@ -22,7 +22,7 @@ We both love the car, it's quiet, very comfortable, has lots of safety features 
 
 Material things alone cannot make us happy, but it sure can bring us some bits of happiness in our daily life. I feel so thankful and happy every time I get into the car. 
 
-I enjoy personal finance so did some math on the car. A gasoline car takes about one gallon to drive 25 miles, with the current gas prices, it will cost $4.50 to drive 25 miles. We charge our car at home during off peak times. It takes abouty kwh to drive 25 miles so it will cost us about $1 to drive that distance.
+I enjoy personal finance so did some math on the car. A gasoline car takes about one gallon to drive 25 miles, with the current gas prices, it will cost $4.50 to drive 25 miles. We charge our car at home during off peak times. It takes about 7 kwh to drive 25 miles so it will cost us about $1 to drive that distance.
 
 Not only are we saving money with this Hyundai Ioniq, we both much prefer driving and riding this car than the Lexus gas car.
 
