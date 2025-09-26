@@ -12,9 +12,10 @@ last_modified_at: 2025-08-07T10:19:00-05:00
 * pickled cucumbers
 * stir fried fresh shiitake mushrooms
 * pork with dry spiced bean curd 
-* egg roll
+* tamago roll
+8 cherry tomatoes from our garden
 
-I told G I want to start making meals the japanese way called ichiju sansai, which consists of a main dish, two side dishs and one soup. So G found these very beautiful bento plates from Crate and Barrel and I am absolutely thrilled with it. Eating dinner out of a ceramic plate defintely feels better than eating out of a plastic bento box. He's always so supportive of whatever whims I have. 
+I told G I want to start making meals the japanese way called ichiju sansai, which consists of a main dish, two side dishes and one soup. So G found these very beautiful bento plates from Crate and Barrel and I am absolutely thrilled with it. Eating dinner out of a ceramic plate defintely feels better than eating out of a plastic bento box. He's always so supportive of whatever whims I have. 
 
 I am super excited and so thankful an indoor pickleball club finally opened up in our town, today was the grand opening. G and I play so much pickleball and we both hate being in the sun. This place has AC, open all day everyday, this is going to make such a positive impact in our lives. We signed up for founders membership before they were even done building the place.
 
