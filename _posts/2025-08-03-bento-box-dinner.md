@@ -18,7 +18,7 @@ We went to Dallas last weekend to watch a Pickleball Pro MLP tournament and we g
 
 Dallas turned out to be a foodie trip. We enjoyed eating at a mediterranean buffet at Dimassi's Restaurant, had the best bbq I've ever had at Hard Eight BBQ. We also visited korean town in Carrolton, TX and had a really good korean lunch box togo from a place called MeatBanchan, which we brought to the pickleball tournament facility.
 
-The pickleball pro tournament was such an amazing and memorable experience for both of us. It was such a new topnotch pickleball facility and unlike other pro sports, these pro players was walking around the facility like regular folks so it was very easy to ask them for autographs or take a photo. They are all so nice and friendly. 
+The pickleball pro tournament was such an amazing and memorable experience for both of us. It was held at Pickler Universe, a topnotch new pickleball facility. Unlike other pro sports, these pickleball pro players were walking around the facility like regular folks so it was very easy to ask them for autographs or take a photo. They are all so nice and friendly. 
 
 They also had free generous samples of cocktails, wine and beer. We had many helpings of it and thoroughly enjoyed the drinks with our korean bento box with it. 
 
