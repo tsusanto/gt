@@ -20,7 +20,7 @@ Dallas turned out to be a foodie trip. We enjoyed eating at a mediterranean buff
 
 The pickleball pro tournament was such an amazing and memorable experience for both of us. It was held at Pickler Universe, a topnotch new pickleball facility. Unlike other pro sports, these pickleball pro players were walking around the facility like regular folks so it was very easy to ask them for autographs or take a photo. They are all so nice and friendly. 
 
-They also had free generous samples of cocktails, wine and beer. We had many helpings of it and thoroughly enjoyed the drinks with our korean bento box with it. 
+The tournament sponsors gave out free generous samples of cocktails, wine and beer. We had many helpings of it and thoroughly enjoyed the drinks with our korean bento box with it. 
 
 The korean bento box was so good it inspired me to make bento style meals at home too, so I bought some bento boxes and used it at home for our meals.
 
