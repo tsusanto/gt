@@ -16,7 +16,7 @@ last_modified_at: 2025-09-18T10:19:00-05:00
 
 A very eventful and fun week and so many things to be grateful for.
 
-<figure class="align-left">
+<figure>
   <a href="#"><img src="{{ '/images/birthday-celebration.jpg' | absolute_url }}" alt=""></a>
   <figcaption>Our nephew's birthday</figcaption>
 </figure> 
@@ -30,7 +30,7 @@ We had a low key family dinner celebration for our nephew's birthday. I am so th
 
 My new Ronbus Quanta pickleball paddle arrived. Not that it improves my game but most pickleball enthusiasts love buying new paddles, including me. I had a pretty bad fall at the pickleball court within 10 minutes of arriving at our club. I continued to play 6 games despite that and won 5 games, it was a very good and fun pickleball day.
 
-<figure class="align-left">
+<figure>
   <a href="#"><img src="{{ '/images/ribeye-bbq.jpg' | absolute_url }}" alt=""></a>
   <figcaption>Ribeye bbq</figcaption>
 </figure> 
@@ -38,12 +38,12 @@ My new Ronbus Quanta pickleball paddle arrived. Not that it improves my game but
 We bought a weber mini grill a couple months ago and only used it once. We decided to grill some ribeye we bought from Costco, it was super delicious. We are so lucky to live within a 6 minute drive of Costco, and that Costco is never crazy busy. We often bump into people we know whenever we go to Costco, it's always fun to chit chat a bit. 
 
 
-<figure class="align-left">
+<figure>
   <a href="#"><img src="{{ '/images/boba-tandoori-pizza.jpg' | absolute_url }}" alt=""></a>
   <figcaption>Playing gin rummy at a boba place and Chicken Tikka Pizza</figcaption>
 </figure> 
 
-<figure class="align-left">
+<figure>
   <a href="#"><img src="{{ '/images/birria-boys.jpg' | absolute_url }}" alt=""></a>
   <figcaption>Authentic Taco place inside a gas station shop</figcaption>
 </figure> 
