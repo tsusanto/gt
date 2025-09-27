@@ -15,11 +15,11 @@ last_modified_at: 2025-09-07T10:19:00-05:00
 * pork, daikon and carrot soup
 
 
-My nephew just moved to Denver for his first job out of college and my sister went to help him move in.
+My nephew just moved to Denver for his first job out of college and my sister went to help him move into an apartment in downtown Denver.
 
 I flew in to Denver for a weekend to visit them and had a blast. My sister and I walked around Denver downtown all day long, checking out the street murals, ate breakfast at Denver Central Market, enjoyed beer at the outdoor beer garden, took the free downtown bus up and down the street to check out whatever caught our fancy. We walked 19,000 steps that day.
 
-The next day, my nephew and his girlfriend, my sister and I went to the Garden of the Gods in Colorado Springs, about an hour drive. It was a very pleasant day hanging out with family. I am very proud of my nephew for getting a job in this horrible job market. He never gave up and finally landed a job after sending out hundreds of job applications.
+The next day, my nephew and his girlfriend, my sister and I went to the Garden of the Gods in Colorado Springs, about an hour drive from Denver downtown. It was a very pleasant day hanging out with family. I am very proud of my nephew for getting a job in this horrible job market. He never gave up and finally landed a job after sending out hundreds of job applications.
 
 
 <figure class="align-left">
