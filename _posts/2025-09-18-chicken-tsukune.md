@@ -49,11 +49,7 @@ We bought a weber mini grill a couple months ago and only used it once. We decid
 </figure> 
 One of the things we enjoy together is to try out new places to eat at. This week we went to a new boba place that has a instagram vibe to it. We hung out for an hour and played gin rummy. It was a pleasant weekday afternoon. We went to the grand opening of a indian pizza place and got a delicious chicken tikka pizza for 50% off. Our brother in law told us about a really good taco place inside a Shell gas station. It was pretty crowded when we went there for a weekday tuesday lunch to get their taco tuesday buy 3 get 1 free deal. The tacos were delicious! We usually don't eat out that often but this week was an exception.
 
-We live in a smallish town with a small community feel and I really love it here. It's safe, clean and very convenient for everyday living. We often bump into people we know at random places and it's always fun to make some small talk. There isn't too much to do like in a big city but we love checking out new places together whenever one opens up.
-
-
-
-
+We live in a smallish town with a small community feel and I really love it here. It's safe, clean , ethnically diverse and very convenient for everyday living. I feel very thankful to live in this town. 
 
 
 
