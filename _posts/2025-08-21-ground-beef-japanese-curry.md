@@ -1,19 +1,21 @@
 ---
-title: "Trout Dinner"
+title: "Ground Beef Japanese Curry with Roasted Vegetables"
 image: 
-  thumbnail: /images/trout-dinner.jpg
+  thumbnail: /images/ground-beef-japanese-curry.jpg
 categories:
   - recipe
 tags:
   - bento
-last_modified_at: 2025-09-01T10:19:00-05:00
+last_modified_at: 2025-09-07T10:19:00-05:00
 ---
 
-* pan fried trout
-* quick pickled cucumbers
-* braised egg tofu with ground pork 
-* pork, daikon and carrot soup
+* ground beef japanese curry with roasted Vegetables
+* pickled cabbage and carrots
+* tofu seaweed miso soup
+* iced cinnamon orange tea from Market Spice in Seattle
 
+We love this cinnamon orange tea we bought from a store called Market Spice in Pike Place Market in Seattle. G and I visited in June for my nephew's college graduation ceremony.
+ 
 G and I have both never leased cars before, but with the recent rebates and amazing lease deals, we decided to lease a new electric Hyundai Ioniq for 3 years. 
 
 The total lease cost works out to be $4100 per year, which is less than the annual depreciation of our Lexus gas car. 
