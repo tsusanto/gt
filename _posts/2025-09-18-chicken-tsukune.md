@@ -42,8 +42,7 @@ One of the things we enjoy together is to try out new places to eat at. This wee
 <figure>
   <a href="#"><img src="{{ '/images/boba-tandoori-pizza.jpg' | absolute_url }}" alt=""></a>
   <figcaption>Playing gin rummy at a boba place and Chicken Tikka Pizza</figcaption>
-</
-figure> 
+</figure> 
 
 <figure>
   <a href="#"><img src="{{ '/images/birria-boys.jpg' | absolute_url }}" alt=""></a>
