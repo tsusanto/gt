@@ -23,7 +23,7 @@ A very eventful and fun week and so many things to be grateful for.
 
 We had a low key family dinner celebration for our nephew's birthday. I am so thankful G's family are all local so we always have family to celebrate every birthday and holidays with. They are all very nice, soft spoken and chill people, I always enjoy spending time with them.
 
-<figure class="align-left">
+<figure>
   <a href="#"><img src="{{ '/images/ronbus-paddle.jpg' | absolute_url }}" alt=""></a>
   <figcaption>Ronbus pickleball paddle</figcaption>
 </figure> 
