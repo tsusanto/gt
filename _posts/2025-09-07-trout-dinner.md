@@ -21,6 +21,7 @@ I flew in to Denver for a weekend to visit them and had a blast. My sister and I
 
 The next day, my nephew and his girlfriend, my sister and I went to the Garden of the Gods in Colorado Springs, about an hour drive from Denver downtown. It was a very pleasant day hanging out with family. I am very proud of my nephew for getting a job in this horrible job market. He never gave up and finally landed a job after sending out hundreds of job applications.
 
+I don't get to see my siblings and parents very often, but I am so thankful they exist and they are always there for me if I need them.
 
 <figure class="align-left">
   <a href="#"><img src="{{ '/images/denver-central-market.jpg' | absolute_url }}" alt=""></a>

@@ -9,7 +9,7 @@ tags:
 last_modified_at: 2025-09-07T10:19:00-05:00
 ---
 
-* ground beef japanese curry with roasted Vegetables
+* ground beef japanese curry with roasted vegetables
 * pickled cabbage and carrots
 * tofu seaweed miso soup
 * iced cinnamon orange tea from Market Spice in Seattle
@@ -18,7 +18,7 @@ I am so grateful for having a peaceful living room with a 65 inch Samsung frame 
 
 This ground beef japanese curry with roasted vegetables was inspired by an anime called "Yotsuiro Biyori". It's a slice of life anime about four guys who run a traditional japanese cafe. It's very relaxing to watch the show, there's not much of a storyline, it's mostly watching them cook and serve customers in their cafe. 
 
-We love this cinnamon orange tea we bought from a store called Market Spice in Pike Place Market in Seattle. The natural sweetness comes from the cinnamon, no sugar necessary. G and I visited in June for my nephew's college graduation ceremony and took the opportunity to check out Seattle downtown.
+We love this cinnamon orange tea we bought from a store called Market Spice in Pike Place Market in Seattle. The natural sweetness comes from the cinnamon, no sugar necessary. G and I visited Seattle in June for my nephew's college graduation ceremony and took the opportunity to check out Seattle downtown.
  
 Another exciting event, we just leased a new electric Hyundai Ioniq 5 SEL.
 
