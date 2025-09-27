@@ -39,6 +39,11 @@ Not only are we saving money with this Hyundai Ioniq, we both much prefer drivin
 We were taking a walk around our neighborhood one evening and we saw a big tractor just parked there and no one else was around. Lots of new housing are being built around us and this tractor was just left there by the builders. I love it that G and I can find fun in many things. We took the opportunity to take turns to climb into the tractor and take pictures. The sunset light was beautiful and I have very fond memories being silly with G.
 
 <figure class="align-left">
+  <a href="#"><img src="{{ '/images/living-room.jpg' | absolute_url }}" alt=""></a>
+  <figcaption>Our living room</figcaption>
+</figure> 
+
+<figure class="align-left">
   <a href="#"><img src="{{ '/images/yotsuiro-biyori.jpg' | absolute_url }}" alt=""></a>
   <figcaption>Yotsuiro Biyori</figcaption>
 </figure> 
