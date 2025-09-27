@@ -27,7 +27,7 @@ My new Ronbus Quanta pickleball paddle arrived. Not that it improves my game but
 
 <figure>
   <a href="#"><img src="{{ '/images/ronbus-paddle.jpg' | absolute_url }}" alt=""></a>
-  <figcaption>Ronbus pickleball paddle</figcaption>
+  <figcaption>A bad fall and my new Ronbus pickleball paddle</figcaption>
 </figure> 
 
 We bought a weber mini grill a couple months ago and only used it once. Summer is almost over and we decided to grill some ribeye we bought from Costco, it was super delicious. We are so lucky to live within a 6 minute drive of Costco, and that Costco is never crazy busy. We often bump into people we know whenever we go to Costco, it's always fun to chit chat a bit. 
