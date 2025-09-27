@@ -16,7 +16,7 @@ last_modified_at: 2025-09-07T10:19:00-05:00
 
 I am so grateful for having a peaceful, always clean and clutter free living room with a 65 inch Samsung frame TV to enjoy watching animes. I typically watch one episode per day in the afternoon, each episode is about 20 minute long. I subscribe to CrunchyRoll for $8/month, which I think is an amazing value.
 
-G is very good and cleaning and living in such a clean and minimalist home really makes me feel peaceful everyday. 
+G is very good and cleaning and living in such a clean and minimalist home really makes me feel peaceful everyday. We both do not like displaying knicks knacks. Anything that takes up visual space must be either useful or asthetically pleasing.  
 
 This ground beef japanese curry with roasted vegetables was inspired by an anime called "Yotsuiro Biyori". It's a slice of life anime about four guys who run a traditional japanese cafe. It's very relaxing to watch the show, there's not much of a storyline, it's mostly watching them cook and serve customers in their cafe. 
 
