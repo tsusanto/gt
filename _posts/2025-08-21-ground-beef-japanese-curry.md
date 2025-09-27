@@ -14,7 +14,7 @@ last_modified_at: 2025-09-07T10:19:00-05:00
 * tofu seaweed miso soup
 * iced cinnamon orange tea from Market Spice in Seattle
 
-We love this cinnamon orange tea we bought from a store called Market Spice in Pike Place Market in Seattle. G and I visited in June for my nephew's college graduation ceremony.
+We love this cinnamon orange tea we bought from a store called Market Spice in Pike Place Market in Seattle. The natural sweetness comes from the cinnamon, no sugar necessary. G and I visited in June for my nephew's college graduation ceremony and took the opportunity to check out Seattle downtown.
  
 G and I have both never leased cars before, but with the recent rebates and amazing lease deals, we decided to lease a new electric Hyundai Ioniq for 3 years. 
 
