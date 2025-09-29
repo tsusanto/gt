@@ -23,7 +23,7 @@ We've been members for a while but this is our last month as members as we now p
   <figcaption>Mini Pickleball Tournament at our Club</figcaption>
 </figure> 
 
-We took G's mom to shop at Costco today. We then went to buy lunch at a chinese bakery/dim sum to go place. It was so sweet of his mom to pay for all the yummy goodies we bought, it made me feel like a kid in a good way.
+We took G's mom to shop at Costco today. We then went to buy lunch at a chinese bakery/dim sum to go place and had fun choosing and pointing and stuff to the counter lady. His mom then paid for all the yummy goodies we chose, it suddenly made me feel like a kid again in a good way when my parents used to pay for things when I was a kid.
 
 <figure>
   <a href="#"><img src="{{ '/images/dim-sum-togo.jpg' | absolute_url }}" alt=""></a>
