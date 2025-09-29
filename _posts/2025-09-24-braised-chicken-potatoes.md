@@ -23,7 +23,7 @@ We've been members for a while but this is our last month as members as we now p
   <figcaption>Mini Pickleball Tournament at our Club</figcaption>
 </figure> 
 
-We took G's mom to shop at Costco today. We then went to buy lunch at a chinese bakery/dim sum to go place and had fun choosing and pointing and stuff to the counter lady. His mom then paid for all the yummy goodies we chose, it suddenly made me feel like a kid again in a good way when my parents used to pay for things when I was a kid.
+We took G's mom to shop at Costco today. We then went to buy lunch at a chinese bakery/dim sum to go place and had fun choosing and pointing at stuff to the counter lady. His mom then paid for all the yummy goodies we chose, it suddenly made me feel like a kid again in a good way when my parents used to pay for things when I was a kid.
 
 <figure>
   <a href="#"><img src="{{ '/images/dim-sum-togo.jpg' | absolute_url }}" alt=""></a>
@@ -39,4 +39,8 @@ The food was pretty good and very good value for the $120/person gratuity includ
   <figcaption>8 course tasting menu</figcaption>
 </figure> 
 
-I am so grateful for my full remote, super chill job. I rarely work more than 2-3 hours per day and Fridays are always super quiet at work. There aren't too many meetings at work and we have a no camera policy. I am already very grateful for pretty decent pay I am getting for doing so little work, and I just got notified that I am getting a 3% raise, which just barely beats inflation I know but I am still so thankful nonetheless.
+I am very grateful for my full time salaried, fully remote and super duper chill job. I usually work between 1 to 3 hours per day and I usually don't have any meetings on Mondays, Wednesdays and Fridays.
+
+We have a no camera policy at work and as long as I finish my assigned tasks, hardly anyone ever bothers me. 
+
+This is the perfect semi-retirement job and to make things even sweeter, they recently gave me a $5K annual raise, which translate to about an extra $250/month extra after tax (California!).
