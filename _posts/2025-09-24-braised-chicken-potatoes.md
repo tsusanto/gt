@@ -32,7 +32,7 @@ We took G's mom to shop at Costco today. We then went to buy lunch at a chinese 
 
 G and I went for a 8 course tasting menu at a recently opened asian fusion restaurant. We saw their advertisement on instagram. Perhaps it wasn't advertised too well, and the dinner slot was at 5 pm, but we ended up being the only customers during our 2 hour dining time, it felt like we had booked the whole restaurant for ourselves. The husband and wife owners came out to chat with us in between the courses, they brought out the chef to greet us. They were so friendly and gracious, we felt like VIPs!
 
-The food was pretty good and very good value for the $120/person gratuity included. It was a very memorable and pleasant dining experience. We live in a smallish town and enjoy trying all the new places whenever it opens up. I'm thankful we do get a lot of new places every few months as this town is growing very fast. 
+The food was pretty good and very good value for the $120/person gratuity included. It was a very memorable and pleasant dining experience. We live in a smallish town and enjoy trying all the new places whenever it opens up. I'm thankful we get a new place to try every couple months as this town is growing very fast. 
 
 <figure>
   <a href="#"><img src="{{ '/images/tasting-menu.jpg' | absolute_url }}" alt=""></a>
