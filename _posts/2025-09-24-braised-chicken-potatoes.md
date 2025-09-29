@@ -38,3 +38,5 @@ The food was pretty good and very good value for the $120/person gratuity includ
   <a href="#"><img src="{{ '/images/tasting-menu.jpg' | absolute_url }}" alt=""></a>
   <figcaption>8 course tasting menu</figcaption>
 </figure> 
+
+I am so grateful for my full remote, super chill job. I rarely work more than 2-3 hours per day and Fridays are always super quiet at work. There aren't too many meetings at work and we have a no camera policy. I am already very grateful for pretty decent pay I am getting for doing so little work, and I just got notified that I am getting a 3% raise, which just barely beats inflation I know but I am still so thankful nonetheless.
