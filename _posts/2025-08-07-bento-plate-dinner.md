@@ -13,7 +13,7 @@ last_modified_at: 2025-08-07T10:19:00-05:00
 * stir fried fresh shiitake mushrooms
 * pork with dry spiced bean curd 
 * tamago roll
-8 cherry tomatoes from our garden
+* cherry tomatoes from our garden
 
 I told G I want to start making meals the japanese way called ichiju sansai, which consists of a main dish, two side dishes and one soup. So G found these very beautiful bento plates from Crate and Barrel and I am absolutely thrilled with it. Eating dinner out of a ceramic plate defintely feels better than eating out of a plastic bento box. He's always so supportive of whatever whims I have. 
 
