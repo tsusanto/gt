@@ -26,7 +26,7 @@ Today is the first heavy rain of the fall season. I often feel wistful when summ
 Our always clean and clutter free living room and my favorite corner in our big couch is my happy place. G recently did a deep cleaning of the couch and rug using a fabric cleaning machine which uses water and suction. I'm thankful G is so good at cleaning and genuinely enjoy cleaning, the way I enjoy cooking. We really are perfect compliments when it comes to cleaning and cooking. Today feels extra nice laying in that corner and hearing the rain outside.
 
 <figure>
-  <a href="#"><img src="{{ '/images/surprise-birthday-party.jpg' | absolute_url }}" alt=""></a>
+  <a href="#"><img src="{{ '/images/pickleball-surprise-party.jpg' | absolute_url }}" alt=""></a>
   <figcaption>Surprise birthday party at our pickleball club</figcaption>
 </figure> 
 
