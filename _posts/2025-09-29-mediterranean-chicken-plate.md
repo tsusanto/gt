@@ -1,5 +1,6 @@
 ---
 title: "Mediterranean Chicken Plate"
+subtitle: "Living in la-la land with G"
 image: 
   thumbnail: /images/mediterranean-chicken-plate.jpg
 categories:

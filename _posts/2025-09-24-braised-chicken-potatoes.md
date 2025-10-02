@@ -1,5 +1,6 @@
 ---
 title: "Braised Chicken With Potatoes"
+subtitle: "An 8 course tasting menu."
 image: 
   thumbnail: /images/braised-chicken-potatoes.jpg
 categories:

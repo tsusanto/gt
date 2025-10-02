@@ -1,5 +1,6 @@
 ---
 title: "Ground Beef Japanese Curry with Roasted Vegetables"
+subtitle: "We lease a new electric car!"
 image: 
   thumbnail: /images/ground-beef-japanese-curry.jpg
 categories:

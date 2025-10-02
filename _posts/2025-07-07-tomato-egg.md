@@ -1,5 +1,6 @@
 ---
 title: "Tomato Egg Stir Fry"
+subtitle: "Our 2 tomato plants are overachievers."
 image: 
   thumbnail: /images/tomato-egg.jpg
 categories:
