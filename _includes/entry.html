@@ -1,5 +1,6 @@
 {% if entry.id %}
   {% assign title = entry.title | markdownify | strip_html %}
+  {% assign subtitle = entry.subtitle %}
 {% else %}
   {% assign title = entry.title %}
   {% assign subtitle = entry.subtitle %}
