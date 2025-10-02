@@ -21,9 +21,9 @@ We have already made friends with a regular group of folks and I'm so grateful f
 
 Yesterday someone organized a surprise noon birthday party for one of the members and we were invited. I grilled some lemongrass tri tip to bring to the party.
 
-Today is the first heavy rain of the fall season. I often feel wistful when summer ends. How can time fly by so fast. As we enter middle age, I want to treasure every moment we have left on earth. I want every day to be fun, joyful and create meaningful memories together with G.
+Today is the first heavy rain of the fall season. I often feel wistful when summer ends. How did time fly by so fast. As we enter middle age, I want to treasure every moment we have left on earth. I want every day to be fun, joyful and create meaningful memories together with G.
 
-Our living room and my favorite corner in our big couch is my happy place. Today feels extra nice laying in that corner and hearing the rain outside.
+Our always clean and clutter free living room and my favorite corner in our big couch is my happy place. G recently did a deep cleaning of the couch and rug using a fabric cleaning machine which uses water . It was very satisfying to see the murky water tank after the cleaning. Today feels extra nice laying in that corner and hearing the rain outside.
 
 <figure>
   <a href="#"><img src="{{ '/images/surprise-birthday-party.jpg' | absolute_url }}" alt=""></a>
