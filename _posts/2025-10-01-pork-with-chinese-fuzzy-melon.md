@@ -1,7 +1,7 @@
 ---
-title: "Mediterranean Chicken Plate"
+title: "Pork with Chinese Fuzzy Melon"
 image: 
-  thumbnail: /images/mediterranean-chicken-plate.jpg
+  thumbnail: /images/pork-with-chinesse-fuzzy-melon.jpg
 categories:
   - recipe
 tags:
