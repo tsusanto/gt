@@ -1,5 +1,6 @@
 ---
-title: "We watched Pickleball Pro MLP in Dallas"
+title: "Bento Box Dinner"
+subtitle: "We watched Pickleball Pro MLP in Dallas!"
 image: 
   thumbnail: /images/bento-box-dinner.jpg
 categories:

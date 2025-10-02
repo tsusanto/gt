@@ -1,5 +1,6 @@
 ---
 title: "Trout Dinner"
+subtitle: "Fun Denver trip with my sister."
 image: 
   thumbnail: /images/trout-dinner.jpg
 categories:
