@@ -1,6 +1,6 @@
 ---
 title: "Chicken Tsukune"
-subtitle: "Family Dinner and Indian Pizza."
+subtitle: "Family Dinner and Indian Pizza"
 image: 
   thumbnail: /images/chicken-tsukune.jpg
 categories:

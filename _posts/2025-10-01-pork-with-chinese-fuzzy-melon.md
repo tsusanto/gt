@@ -1,5 +1,6 @@
 ---
 title: "Pork with Chinese Fuzzy Melon"
+subtitle: "Surprise birthday party at our pickleball club"
 image: 
   thumbnail: /images/pork-with-chinesse-fuzzy-melon.jpg
 categories:
@@ -9,11 +10,8 @@ tags:
 last_modified_at: 2025-09-29T10:19:00-05:00
 ---
 
-* zaatar grilled chicken
-* tahini dressing
-* roasted potatoes
-* pickled beets
+* Braised pork with chinese fuzzy melon
+* oyster mushrooms in miso butter sauce
+* miso soup with tofu and seaweed
+* kimchi (from Costco)
 
-I am very grateful for having G in my life. My life has never been better, most days feels like living in la-la land.
-
-Having a partner whom you know will always have your back, is your best friend, your adventure buddy, pickleball partner, puts you first and has the same financial values and other important values as you is like winning the lottery.
