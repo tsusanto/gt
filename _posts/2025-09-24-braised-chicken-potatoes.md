@@ -19,7 +19,7 @@ last_modified_at: 2025-09-24T10:19:00-05:00
 
 We had such a fun and eventful weekend! On Friday evening, our club hosted a mini pickleball tournament organized by some of the members. Nine teams participated, and although the tournament wasn’t gender-restricted, only men signed up. I went to watch and cheer for G, who had joined as well. Midway through, one of the players injured his foot, and they asked me to sub in. I ended up playing two games in his place—won one, lost one—and had a great time. That’s how I became the only woman in the group photo of participants.
 
-We’ve been members of this club for a while, but this will be our last month since we now mainly play at the other indoor pickleball club. I’m grateful for the many friendly and welcoming members here, some of whom have also joined the new club. We’ve made wonderful friends who’ve already offered to bring us in as guests anytime in the future.
+We’ve been members of this club for a while, but this will be our last month since we now mainly play at the other indoor pickleball club. I’m grateful for the many friendly and welcoming members here, some of whom have also joined the new club. We’ve made wonderful friends who’ve already offered to bring us in as guests in the future.
 
 <figure>
   <a href="#"><img src="{{ '/images/pickleball-tournament.jpg' | absolute_url }}" alt=""></a>
