@@ -15,16 +15,15 @@ last_modified_at: 2025-09-29T10:19:00-05:00
 * miso soup with tofu and seaweed
 * kimchi (from Costco)
 
-We ended our membership at the sports club and is now playing pickleball almost exclusively at the newly opened indoor pickleball club. We enjoyed being members of the sports club and I'm thankful for all the happy memories there and the friends we made.
+We ended our membership at the sports club and now play pickleball almost exclusively at the newly opened indoor pickleball club. We truly enjoyed our time at the sports club, and I’m thankful for the happy memories and friendships we made there.
 
-We have already made friends with a regular group of folks at the indoor pickleball club and I'm so grateful for this friendly community.
+At the indoor club, we’ve already found a regular group of friends, and I feel so grateful for this welcoming community.
 
-Yesterday someone organized a surprise noon birthday party for one of the members and we were invited. I grilled some lemongrass tri tip to bring to the party.
+Just yesterday, someone organized a surprise birthday party at noon for one of the members, and we were invited. I brought along some home made grilled lemongrass tri-tip to share.
 
-Today is the first heavy rain of the fall season. I often feel wistful when summer ends. How did time fly by so fast. As G and I enter middle age, I want to treasure every moment we have left on earth. I want every day to be fun, joyful and create meaningful memories together with G.
+Today marks the first heavy rain of the fall season. I often feel wistful when summer ends—how does time fly by so quickly? As G and I move through middle age, I want to treasure every moment we have together. I hope each day is filled with joy, fun, and meaningful memories.
 
-Our always clean and clutter free living room is my happy place, and my favorite spot is the inside corner of our L shaped big couch. G recently did a deep cleaning of the couch and rug using a fabric cleaning machine. I'm thankful G is so good at cleaning and genuinely enjoy cleaning, the way I enjoy cooking. We really are perfect complements when it comes to cleaning and cooking. Today feels extra nice laying in that corner and hearing the rain outside.
-
+Our clean, clutter-free living room is my happy place. My favorite spot is the inside corner of our big L-shaped couch. Recently, G deep-cleaned both the couch and rug with a fabric cleaning machine. I’m thankful that G is so good at, and actually enjoys, cleaning the way I enjoy cooking. We truly complement each other in that way. Today feels especially cozy, lying in that corner and listening to the rain outside.
 <figure>
   <a href="#"><img src="{{ '/images/pickleball-surprise-party.jpg' | absolute_url }}" alt=""></a>
   <figcaption>Surprise birthday party at our pickleball club</figcaption>
