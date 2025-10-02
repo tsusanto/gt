@@ -48,6 +48,8 @@ I enjoy personal finance so did some math on the car. Suppose we drive 10,000 mi
 
 Not only are we saving money with this Hyundai Ioniq, we both much prefer driving and riding this car than the Lexus gas car.
 
+I'm so thankful G and I ave very similar taste and work so well together. We both did research and found a good deal online, and we made a 5 hour round trip to pick up the car.
+
 <figure>
   <a href="#"><img src="{{ '/images/hyundai-ioniq.jpg' | absolute_url }}" alt=""></a>
   <figcaption>Our brand new Hyundai Ioniq</figcaption>
