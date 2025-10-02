@@ -15,19 +15,18 @@ last_modified_at: 2025-08-03T10:19:00-05:00
 * marinated bean sprouts 
 * tofu with cabbage soup
 
-We went to Dallas last weekend to watch a Pickleball Pro MLP tournament and we got to see all our favorite pro players in person. 
+We went to Dallas last weekend to watch a Pickleball Pro MLP tournament, where we got to see all our favorite pro players in person.
 
-Dallas turned out to be a foodie trip. We enjoyed a mediterranean buffet at Dimassi's Restaurant, had the best bbq I've ever had at Hard Eight BBQ. We also visited korea town in Carrolton, TX and had a really good korean lunch box to go from a place called MeatBanchan, which we brought to the pickleball tournament facility.
+The trip also turned into a foodie adventure. We enjoyed a Mediterranean buffet at Dimassi’s Restaurant, had the best BBQ I’ve ever tasted at Hard Eight, and visited Korea Town in Carrollton, TX. There, we picked up a delicious Korean lunch box from MeatBanchan and brought it along to the tournament.
 
-The pickleball pro tournament was such an amazing and memorable experience for both of us. It was held at Pickler Universe, a topnotch new pickleball facility. Unlike other pro sports, these pickleball pro players were walking around the facility like regular folks so it was very easy to ask them for autographs or take a photo. Ben Johns and Tyra Black were so nice and friendly. 
+The tournament itself was such an amazing and memorable experience. It was held at Pickler Universe, a top-notch new pickleball facility. Unlike other professional sports, the players were walking around just like everyone else, making it easy to ask for autographs or take photos. Ben Johns and Tyra Black were both incredibly kind and friendly.
 
-The tournament sponsors gave out free generous samples of cocktails, wine and beer. We had many helpings of it and thoroughly enjoyed the drinks with our delicious korean bento box lunch. 
+The sponsors added to the fun by handing out generous free samples of cocktails, wine, and beer. We happily enjoyed several rounds along with our Korean bento lunch.
 
-The korean bento box was so good it inspired me to make bento style meals at home, so I bought some bento boxes and used it at home for our meals.
+That bento box was so good it inspired me to start making bento-style meals at home. I bought a set of bento boxes, and today was the first time I used them—it turned out great!
 
-Today is the first time I used them and it turned out well.
+I’m also really grateful for our kind neighbors. One of them recently shared a big bunch of yard-long beans from their garden, and I used them in tonight’s dinner.
 
-I'm really grateful to have nice neighbors. One of them gave us a big bunch of yard long beans they grew in their backyard and I used it in tonight's dinner.
 
 <figure class="align-left">
   <a href="#"><img src="{{ '/images/dallas-pickleball-mlp.jpg' | absolute_url }}" alt=""></a>
