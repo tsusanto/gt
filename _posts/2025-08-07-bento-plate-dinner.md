@@ -1,5 +1,6 @@
 ---
-title: "The indoor pickleball club finally opened!"
+title: "Bento Plate Dinner"
+subtitle: "The indoor pickleball club finally opened!"
 image: 
   thumbnail: /images/bento-plate-dinner-1.jpg
 categories:

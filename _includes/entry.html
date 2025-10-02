@@ -2,6 +2,7 @@
   {% assign title = entry.title | markdownify | strip_html %}
 {% else %}
   {% assign title = entry.title %}
+  {% assign subtitle = entry.subtitle %}
 {% endif %}
 
 <article class="entry h-entry">
@@ -11,7 +12,7 @@
         <a class="u-bookmark-of" href="{{ entry.link }}">{{ title }}</a> <a href="{{ entry.url | relative_url }}" rel="bookmark"><span class="link-arrow">&rarr;</span></a>
       {% else %}
 		{% if entry.image.thumbnail %}
-			<a href="{{ entry.url | relative_url }}" rel="bookmark">{{ title }} <div class="entry-excerpt">Read more <span class="link-arrow">&rarr;</span></class></a>
+			<a href="{{ entry.url | relative_url }}" rel="bookmark">{{ title }} <div class="entry-excerpt">{{ subtitle }}Read more <span class="link-arrow">&rarr;</span></class></a>
 		{% else %}
 			<a href="{{ entry.url | relative_url }}" rel="bookmark">{{ title }} <div class="entry-excerpt"></class></a>
 		{% endif %}
