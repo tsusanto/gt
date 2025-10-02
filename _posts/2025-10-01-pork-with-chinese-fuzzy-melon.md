@@ -24,11 +24,16 @@ Just yesterday, someone organized a surprise birthday party at noon for one of t
 Today marks the first heavy rain of the fall season. I often feel wistful when summer ends—how does time fly by so quickly? As G and I move through middle age, I want to treasure every moment we have together. For all time we've been together, I am grateful that most days have been filled with joy, fun and meaningful memories and I hope they will continue.
 
 Our clean, clutter-free living room is my happy place. My favorite spot is the inside corner of our big L-shaped couch. Recently, G deep-cleaned both the couch and rug with a fabric cleaning machine. I’m thankful that G is so good at, and actually enjoys, cleaning the way I enjoy cooking. We truly complement each other in that way. Today feels especially cozy, lying in that corner and listening to the rain outside.
+
 <figure>
   <a href="#"><img src="{{ '/images/pickleball-surprise-party.jpg' | absolute_url }}" alt=""></a>
   <figcaption>Surprise birthday party at our pickleball club</figcaption>
 </figure> 
 
+<figure>
+  <a href="#"><img src="{{ '/images/lemongrass-tri-tip.jpg' | absolute_url }}" alt=""></a>
+  <figcaption>I made lemongrass tri tip for the potluck birthday party</figcaption>
+</figure>
 
 <figure>
   <a href="#"><img src="{{ '/images/living-room-rain.jpg' | absolute_url }}" alt=""></a>
