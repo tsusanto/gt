@@ -15,13 +15,13 @@ last_modified_at: 2025-09-07T10:19:00-05:00
 * tofu seaweed miso soup
 * iced cinnamon orange tea from Market Spice in Seattle
 
-We love this cinnamon orange tea we bought from a store called Market Spice in Pike Place Market in Seattle. The natural sweetness comes from the cinnamon, no sugar necessary. G and I visited Seattle in June for my nephew's college graduation ceremony and took the opportunity to check out Seattle downtown.
+We love the cinnamon orange tea we bought from Market Spice at Pike Place Market in Seattle. Its natural sweetness comes from the cinnamon—no sugar needed. G and I visited Seattle in June for my nephew’s college graduation and took the opportunity to explore downtown.
 
-I am so grateful for having a peaceful, always clean and clutter free living room with a 65 inch Samsung frame TV to enjoy watching animes. I typically watch one episode per day in the afternoon, each episode is about 20 minute long. I subscribe to CrunchyRoll for $8/month, which I think is an amazing value.
+I’m grateful for our peaceful, always clean, and clutter-free living room, complete with a 65-inch Samsung Frame TV where I enjoy watching anime. I usually watch one episode a day in the afternoon—each about 20 minutes long. I subscribe to Crunchyroll for $8 a month, which feels like an amazing value.
 
-G is very good and cleaning and living in such a clean and minimalist home really makes me feel peaceful everyday. We both do not like displaying knicks knacks. Anything that takes up visual space must be either useful or asthetically pleasing.  
+G is excellent at cleaning, and living in such a neat, minimalist home brings me peace every day. We both dislike displaying knickknacks—anything that takes up visual space must be either useful or aesthetically pleasing.
 
-This ground beef japanese curry with roasted vegetables was inspired by an anime called "Yotsuiro Biyori". It's a slice of life anime about four guys who run a traditional japanese cafe. It's very relaxing to watch the show, there's not much of a storyline, it's mostly watching them cook and serve customers in their cafe. 
+Recently, I made a ground beef Japanese curry with roasted vegetables, inspired by an anime called Yotsuiro Biyori. It’s a slice-of-life series about four men who run a traditional Japanese café. The show is very relaxing, with little storyline—mostly just cooking and serving customers—which makes it soothing to watch.
 
 <figure>
   <a href="#"><img src="{{ '/images/living-room.jpg' | absolute_url }}" alt=""></a>
@@ -34,21 +34,19 @@ This ground beef japanese curry with roasted vegetables was inspired by an anime
 </figure> 
 
  
-Another exciting event, we just leased a new electric Hyundai Ioniq 5 SEL.
+Another exciting update: we just leased a new electric Hyundai Ioniq 5 SEL.
 
-G and I have both never leased cars before, but with the recent rebates and amazing lease deals, we decided to lease one for 3 years. 
+Neither G nor I had leased a car before, but with the current rebates and great lease deals, we decided on a three-year lease. The total cost works out to $4,100 per year—less than the annual depreciation on our Lexus gas car.
 
-The total lease cost works out to be $4100 per year, which is less than the annual depreciation of our Lexus gas car. 
+We both love the Ioniq. It’s quiet, comfortable, packed with safety features, and has a huge screen for navigation. I’m not a car person, but I have to admit this one makes daily driving much more enjoyable.
 
-We both love the car, it's quiet, very comfortable, has lots of safety features and has a huge screen for map navigation. I am not a car person, but I must say this car has really made everyday driving so much more enjoyable.
+Of course, material things alone don’t bring happiness—but they can add joy to daily life. I feel thankful and happy every time I get into the car.
 
-Material things alone cannot make us happy, but it sure can bring us some bits of happiness in our daily life. I feel so thankful and happy every time I get into the car. 
+Since I enjoy personal finance, I ran the numbers: if we drive 10,000 miles a year, our old Lexus at 24 mpg with California gas prices averaging $4.50/gallon would cost about $1,875 annually in fuel. Our new electric car gets about 3.9 miles per kWh, and since we charge at home during off-peak hours, those same 10,000 miles cost only about $360 a year in electricity.
 
-I enjoy personal finance so did some math on the car. Suppose we drive 10,000 miles a year. Our previous Lexus had 24 miles per gallon. The average gas price in California is about $4.50.gallon, so driving that 10K miles will cost us $1875/year in gas. Our new electric gar can go about 3.9 miles per kwh and we charge our car at home during off peak times. That same 10K miles will cost cost us $360 a year in electric bills. 
+Not only are we saving money with the Ioniq, but we also both prefer driving it to the Lexus.
 
-Not only are we saving money with this Hyundai Ioniq, we both much prefer driving and riding this car than the Lexus gas car.
-
-I'm so thankful G and I ave very similar taste and work so well together. We both did research and found a good deal online, and we made a 5 hour round trip to pick up the car.
+I’m so thankful G and I share similar taste and work well together. We researched, found a great deal online, and even made a five-hour round trip to pick up the car.
 
 <figure>
   <a href="#"><img src="{{ '/images/hyundai-ioniq.jpg' | absolute_url }}" alt=""></a>
@@ -60,7 +58,7 @@ I'm so thankful G and I ave very similar taste and work so well together. We bot
   <figcaption>Huge screen and very comfortable interior</figcaption>
 </figure> 
 
-We were taking a walk around our neighborhood one evening and we saw a big tractor just parked there and no one else was around. Lots of new housing are being built around us and this tractor was just left there by the builders. I love it that G and I can find fun in many things. We took the opportunity to take turns to climb into the tractor and take pictures. The sunset light was beautiful and I have very fond memories being silly with G.
+One evening, while walking around our neighborhood, we came across a big tractor parked with no one else around. With all the new housing being built nearby, it had been left there by the builders. I love that G and I can find fun in the simplest things — we took turns climbing into the tractor and snapping pictures. The sunset light was beautiful, and I have such fond memories of being silly with G that evening.
 
 <figure>
   <a href="#"><img src="{{ '/images/tractor.jpg' | absolute_url }}" alt=""></a>
