@@ -1,7 +1,7 @@
 ---
 title: "Mediterranean Chicken Plate"
 image: 
-  thumbnail: /images/Mediterranean-chicken-plate.jpg
+  thumbnail: /images/mediterranean-chicken-plate.jpg
 categories:
   - recipe
 tags:
