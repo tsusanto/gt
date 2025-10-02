@@ -15,3 +15,10 @@ last_modified_at: 2025-09-29T10:19:00-05:00
 * miso soup with tofu and seaweed
 * kimchi (from Costco)
 
+We ended our membership at the sports club and is now playing pickleball almost exclusively at the newly opened indoor pickleball club.
+
+We have already made friends with a regular group of folks and I'm so grateful for this friendly community.
+
+Yesterday someone organized a surprise noon birthday party for one of the members and we were invited. I grilled some lemongrass tri tip to bring to the party.
+
+Today is the first heavy rain of the fall season. I often feel wistful when summer ends. How can time fly by so fast. As we enter middle age, I want to treasure every moment we have left on earth. I want every day to be fun, joyful and create meaningful memories together with G.
