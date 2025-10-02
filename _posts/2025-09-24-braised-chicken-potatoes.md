@@ -31,9 +31,9 @@ We took G's mom to shop at Costco today. We then went to buy lunch at a chinese 
   <figcaption>Dim sum to go for lunch</figcaption>
 </figure> 
 
-G and I went for a 8 course tasting menu at a recently opened asian fusion restaurant. We saw their advertisement on instagram. Perhaps it wasn't advertised too well, and the dinner slot was at 5 pm, but we ended up being the only customers during our 2 hour dining time, it felt like we had booked the whole restaurant for ourselves. The husband and wife owners came out to chat with us in between the courses, they brought out the chef to greet us. They were so friendly and gracious, we felt like VIPs!
+G and I went for an eight-course tasting menu at a newly opened Asian fusion restaurant we discovered through an Instagram ad. Maybe it wasn’t promoted very well—or perhaps the early 5 p.m. dinner slot was too early — but we ended up being the only guests during our two-hour meal. It felt like we had reserved the entire restaurant just for ourselves. The husband-and-wife owners came out to chat with us between courses, even bringing out the chef to greet us. They were so friendly and gracious that we truly felt like VIPs.
 
-The food was pretty good and very good value for the $120/person gratuity included. It was a very memorable and pleasant dining experience. We live in a smallish town and enjoy trying all the new places whenever it opens up. I'm thankful we get a new place to try every couple months as this town is growing very fast. 
+The food was quite good and an excellent value at $120 per person, gratuity included. Overall, it was a memorable and very pleasant dining experience. Living in a smaller town, we enjoy trying new restaurants whenever they open. I’m thankful that, with how fast our town is growing, we get a new place to try every couple of months.
 
 <figure>
   <a href="#"><img src="{{ '/images/tasting-menu.jpg' | absolute_url }}" alt=""></a>
