@@ -1,6 +1,8 @@
 ---
 title: "Braised Chicken With Potatoes"
-subtitle: "An 8 course tasting menu"
+subtitle: "An 8 course tasting menu and a pay raise
+
+"
 image: 
   thumbnail: /images/braised-chicken-potatoes.jpg
 categories:
@@ -40,8 +42,8 @@ The food was quite good and an excellent value at $120 per person, gratuity incl
   <figcaption>8 course tasting menu</figcaption>
 </figure> 
 
-I am very grateful for my full time salaried, fully remote and super duper chill job. I usually work between 1 to 3 hours per day and I usually don't have any meetings on Mondays, Wednesdays and Fridays.
+I’m very grateful for my full-time, salaried, fully remote, and super chill job. I usually work just one to three hours a day, and I rarely have meetings on Mondays, Wednesdays, or Fridays.
 
-We have a no camera policy at work and as long as I finish my assigned tasks, hardly anyone ever bothers me. 
+Since we have a no-camera policy, and as long as I complete my assigned tasks, hardly anyone ever bothers me.
 
-This is the perfect semi-retirement job and to make things even sweeter, they recently gave me a $5K annual raise, which translate to about an extra $250/month extra after tax (California!).
+It really feels like the perfect semi-retirement job—and to make it even sweeter, I recently received a $5K annual raise, which works out to about $250 more per month after taxes (California!).
