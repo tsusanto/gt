@@ -17,7 +17,7 @@ last_modified_at: 2025-09-29T10:19:00-05:00
 
 We ended our membership at the sports club and is now playing pickleball almost exclusively at the newly opened indoor pickleball club. We had a great time at the sports club and I'm thankful for all the happy memories there.
 
-We have already made friends with a regular group of folks and I'm so grateful for this friendly community.
+We have already made friends with a regular group of folks at the indoor pickleball club and I'm so grateful for this friendly community.
 
 Yesterday someone organized a surprise noon birthday party for one of the members and we were invited. I grilled some lemongrass tri tip to bring to the party.
 
