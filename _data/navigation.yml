@@ -1,6 +1,6 @@
 # Sample site navigation bar links
 
-- title: Recipes
+- title: Home
   url: /
 - title: Comments
   url: /comments/
