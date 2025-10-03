@@ -26,8 +26,7 @@ We’ve been members of this club for a while, but this will be our last month s
   <figcaption>Mini Pickleball Tournament at our Club</figcaption>
 </figure> 
 
-We took G's mom to shop at Costco today. We then went to buy lunch at a chinese bakery/dim sum to go place and had fun choosing and pointing at stuff to the counter lady. His mom then paid for all the yummy goodies we chose, it suddenly made me feel like a kid again in a good way when my parents used to pay for things when I was a kid.
-
+We took G’s mom shopping at Costco today. Afterward, we stopped by a Chinese bakery and dim sum takeout spot, where we had fun pointing at different items for the lady behind the counter. His mom insisted on paying for all the delicious treats we picked out, and it suddenly made me feel like a kid again—in a good way—just like when my parents used to pay for things when I was little.
 <figure>
   <a href="#"><img src="{{ '/images/dim-sum-togo.jpg' | absolute_url }}" alt=""></a>
   <figcaption>Dim sum to go for lunch</figcaption>
@@ -44,6 +43,6 @@ The food was quite good and an excellent value at $120 per person, gratuity incl
 
 I’m very grateful for my full-time, salaried, fully remote, and super chill job. I usually work just one to three hours a day, and I rarely have meetings on Mondays, Wednesdays, or Fridays.
 
-Since we have a no-camera policy, and as long as I complete my assigned tasks, hardly anyone ever bothers me.
+We have a no-camera policy for meetings, and as long as I complete my assigned tasks, hardly anyone ever bothers me.
 
 It really feels like the perfect semi-retirement job—and to make it even sweeter, I recently received a $5K annual raise, which works out to about $250 more per month after taxes (California!).
