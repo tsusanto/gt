@@ -1,6 +1,6 @@
 ---
 title: "Pork with Chinese Fuzzy Melon"
-subtitle: "A Surprise birthday party at our pickleball club"
+subtitle: "A surprise birthday party at our pickleball club"
 image: 
   thumbnail: /images/pork-with-chinesse-fuzzy-melon.jpg
 categories:
