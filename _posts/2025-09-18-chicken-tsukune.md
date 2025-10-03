@@ -38,7 +38,7 @@ We bought a weber mini grill a couple months ago and only used it once. Summer i
   <figcaption>Ribeye bbq</figcaption>
 </figure> 
 
-One of the things we enjoy together is to try out new places to eat at. This week we went to a new boba place that has a instagram vibe to it. We hung out for an hour and played gin rummy. It was a pleasant weekday afternoon. We went to the grand opening of a indian pizza place and got a delicious chicken tikka pizza for 50% off. Our brother in law told us about a really good taco place inside a Shell gas station. It was pretty crowded when we went there for a weekday tuesday lunch to get their taco tuesday buy 3 get 1 free deal. The tacos were delicious! We usually don't eat out that often but this week was an exception.
+One of the things we enjoy doing together is trying out new places to eat. This week, we checked out a new boba shop with an Instagram-worthy vibe. We hung out there for about an hour, sipping our drinks and playing gin rummy—it was a pleasant way to spend a weekday afternoon. Later, we went to the grand opening of an Indian pizza place and enjoyed a delicious chicken tikka pizza at 50% off. Our brother-in-law also recommended a taco spot inside a Shell gas station, so we went there for their Taco Tuesday special—buy three, get one free. It was surprisingly crowded for a weekday lunch, but the tacos were absolutely worth it! We usually don’t eat out this much, but this week was definitely an exception.
 
 <figure>
   <a href="#"><img src="{{ '/images/boba-tandoori-pizza.jpg' | absolute_url }}" alt=""></a>
