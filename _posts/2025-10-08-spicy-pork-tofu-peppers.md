@@ -1,6 +1,6 @@
 ---
 title: "Spicy Pork with Tofu and Peppers"
-subtitle: "Giant pumpkins and Harvest Moon"
+subtitle: "Giant Pumpkins and Harvest Moon"
 image: 
   thumbnail: /images/spicy-pork-tofu-peppers.jpg
 categories:
