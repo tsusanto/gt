@@ -35,6 +35,6 @@ On Monday evening, after dinner, we took a long walk. The Harvest Moon was shini
 
 This past week has felt especially relaxing and peaceful with the arrival of fall weather. We watched a Korean drama called You and Everything Else, a beautifully made series about two childhood friends and their complicated friendship. The story ends with the two taking a trip to Switzerland, where one of them—who has terminal cancer - chooses to end her life with dignity. G and I really enjoyed the show, and I highly recommend it. It's a morbid topic but G and I both agreed that we will both do it for the other if the need ever arises one day. Death is part of life, and I think it's an important topic to discuss with your partner way ahead of time. 
 
-Maybe it's because I had a restful week, I have so many ideas what fun stuff I want to do.I want to grow edible mushrooms, grow bean sprouts, learn how to make and edit videos of our daily life, make mochi and apple pies. So many fun projects to look forward to! Life really is so good.
+Maybe it's because I had a restful week, I have so many ideas what fun stuff I want to do. I want to grow edible mushrooms, grow bean sprouts, learn how to make and edit videos of our daily life, make mochi and apple pies. So many fun projects to look forward to! Life really is so good.
 
 
