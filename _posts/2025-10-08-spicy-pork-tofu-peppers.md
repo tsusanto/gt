@@ -19,7 +19,7 @@ We played a lot of pickleball last week, and on Friday we spent nearly four hour
 
 Over the weekend, we focused on home projects - working on the front yard and cleaning grease off our kitchen cabinets with a steam cleaner. We kept touching the once sticky cabinets and gushing over how smooth and clean it feels now.
 
-On Sunday, we went to a Pumpkin Festival just 15 minutes from home. The weather was a perfect 72°F, and the place was packed with cheerful, smiling people. The beer we had that tasted especially good even though it was just regular cheap beer. I think that our town is full of happy folks and the good vibes from others makes me feel happy too.
+On Sunday, we went to a Pumpkin Festival just 15 minutes from home. The weather was a perfect 72°F, and the place was packed with cheerful, smiling people. The beer we had there tasted especially good even though it was just regular cheap beer. I think that our town is full of happy folks and the good vibes from others makes me feel happy too.
 
 <figure>
   <a href="#"><img src="{{ '/images/giant-pumpkins.jpg' | absolute_url }}" alt=""></a>
