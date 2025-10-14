@@ -19,7 +19,7 @@ I am so grateful for YouTube as it is such a great resource for learning just ab
 
 My most recent project idea is to grow bean sprouts. I watched probably 20 videos before deciding on a method. I harvested my first batch of bean sprouts on the 6th day after starting it. It was a success! I learned a couple things and will tweak it when I grow them again.  I made 2 dishes with it, stir fried bean sprouts with eggs and bean sprouts kimchi soup.
 
-I want to learn how to grow sprouts next. Isn't it wonderful we live in a time period in which we have unlimited free access to knowledge?
+I want to learn how to grow microgreens next. Isn't it wonderful we live in a time period in which we have unlimited free access to knowledge?
 
 
 <figure>
