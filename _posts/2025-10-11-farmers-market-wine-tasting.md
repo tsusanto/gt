@@ -24,7 +24,7 @@ Saturday was a lovely day with perfect temperature in the low 70s. We visited ou
   <figcaption>Farmers Market</figcaption>
 </figure> 
 
-We had lunch at home then visited a local winery less than 20 minutes drive from home. I'm so grateful we have easy access to a few charming small wineries without having to drive too far. They often have free live music or other fun events. It's our first time to this particular winery and we will definitely come back again.
+We had lunch at home then visited a local winery less than 20 minutes drive from home. I'm so grateful we have easy access to a few charming small wineries without having to drive too far. They often have free live music or other fun events. It's our first time to this particular winery and the music performer today has very chill hawaiian vibes to his music and we really enjoyed it. We will definitely come back again.
 
 <figure>
   <a href="#"><img src="{{ '/images/wine-tasting.jpg' | absolute_url }}" alt=""></a>
