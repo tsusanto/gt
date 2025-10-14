@@ -1,5 +1,5 @@
 ---
-title: "Spicy Pork with Tofu and Peppers"
+title: "Imitation Crab Egg Foo Yung"
 subtitle: "I grew bean sprouts!"
 image: 
   thumbnail: /images/i-grew-bean-sprouts.jpg
