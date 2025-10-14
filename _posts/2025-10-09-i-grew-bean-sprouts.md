@@ -15,7 +15,7 @@ last_modified_at: 2025-10-09T10:19:00-05:00
 * cucumber seaweed salad
 * kimchi vegetable soup
 
-I am so grateful YouTube is such a great resource for learning. I'm also thankful a good friend of mine added me to her YouTube premium family plan so I can watch videos without ads.
+I am so grateful for YouTube as it is such a great resource for learning just about anything. I'm also thankful a good friend of mine added me to her YouTube premium family plan so I can watch videos without ads.
 
 My most recent project idea is to grow bean sprouts. I watched probably 20 videos before deciding on a method. I harvested my first batch of bean sprouts on the 6th day after starting it. It was a success! I learned a couple things and will tweak it when I grow them again.  I made 2 dishes with it, stir fried bean sprouts with eggs and bean sprouts kimchi soup.
 
