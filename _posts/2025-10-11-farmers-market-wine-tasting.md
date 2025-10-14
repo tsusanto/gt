@@ -17,7 +17,7 @@ last_modified_at: 2025-10-11T10:19:00-05:00
 
 We had such a wonderful Saturday!
 
-Saturday was a lovely day with perfect temperature in the low 70s. We visited our local farmers market. It's our first time visiting and I'm so pleased with the vegetable selection and the amazing prices. We bought a lot of vegetables for $14. We ran into a pickleball acquaintance and his wife at the farmers market and had a small chat. Our town isn't very big and we often run into people we know.
+Saturday was a lovely day with perfect temperature in the low 70s. We visited our local farmers market. It's our first time visiting and I'm so pleased with the vegetable selection and the amazing prices. Usually farmers market tend to have pricier vegetable but this one is cheaper than at the stores.  We bought a lot of vegetables for $14. We ran into a pickleball acquaintance and his wife at the farmers market and had a small chat. Our town isn't very big and we often run into people we know.
 
 <figure>
   <a href="#"><img src="{{ '/images/farmers-market.jpg' | absolute_url }}" alt=""></a>
